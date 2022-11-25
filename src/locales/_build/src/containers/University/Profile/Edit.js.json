@@ -1,0 +1,126 @@
+{
+  "Name is required": {
+    "origin": [
+      [
+        "src/containers/University/Profile/Edit.js",
+        98
+      ]
+    ]
+  },
+  "Type of University is required": {
+    "origin": [
+      [
+        "src/containers/University/Profile/Edit.js",
+        101
+      ]
+    ]
+  },
+  "We are is required": {
+    "origin": [
+      [
+        "src/containers/University/Profile/Edit.js",
+        105
+      ]
+    ]
+  },
+  "Why should you study here is required": {
+    "origin": [
+      [
+        "src/containers/University/Profile/Edit.js",
+        108
+      ]
+    ]
+  },
+  "Subject areas is required": {
+    "origin": [
+      [
+        "src/containers/University/Profile/Edit.js",
+        111
+      ]
+    ]
+  },
+  "Special features is required": {
+    "origin": [
+      [
+        "src/containers/University/Profile/Edit.js",
+        114
+      ]
+    ]
+  },
+  "City is required": {
+    "origin": [
+      [
+        "src/containers/University/Profile/Edit.js",
+        117
+      ]
+    ]
+  },
+  "Country is required": {
+    "origin": [
+      [
+        "src/containers/University/Profile/Edit.js",
+        120
+      ]
+    ]
+  },
+  "Postal Code is required": {
+    "origin": [
+      [
+        "src/containers/University/Profile/Edit.js",
+        123
+      ]
+    ]
+  },
+  "Address (street and number) is required": {
+    "origin": [
+      [
+        "src/containers/University/Profile/Edit.js",
+        126
+      ]
+    ]
+  },
+  "Invalid URL (e.g., https://google.com)": {
+    "origin": [
+      [
+        "src/containers/University/Profile/Edit.js",
+        129
+      ],
+      [
+        "src/containers/University/Profile/Edit.js",
+        132
+      ],
+      [
+        "src/containers/University/Profile/Edit.js",
+        135
+      ],
+      [
+        "src/containers/University/Profile/Edit.js",
+        138
+      ]
+    ]
+  },
+  "Invalid email": {
+    "origin": [
+      [
+        "src/containers/University/Profile/Edit.js",
+        140
+      ]
+    ]
+  },
+  "You are leaving the page without saving and will lose all changed data.": {
+    "origin": [
+      [
+        "src/containers/University/Profile/Edit.js",
+        168
+      ]
+    ]
+  },
+  "Leave": {
+    "origin": [
+      [
+        "src/containers/University/Profile/Edit.js",
+        175
+      ]
+    ]
+  }
+}

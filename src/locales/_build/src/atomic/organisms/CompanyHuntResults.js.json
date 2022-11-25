@@ -1,0 +1,34 @@
+{
+  "Results": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntResults.js",
+        30
+      ]
+    ]
+  },
+  "{totalItemsCount} found": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntResults.js",
+        33
+      ]
+    ]
+  },
+  "there are no students who match your current search": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntResults.js",
+        55
+      ]
+    ]
+  },
+  "Search a keyword or filter to <0/> find your next candidate": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntResults.js",
+        69
+      ]
+    ]
+  }
+}

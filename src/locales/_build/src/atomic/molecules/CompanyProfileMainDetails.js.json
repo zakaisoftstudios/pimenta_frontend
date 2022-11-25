@@ -1,0 +1,18 @@
+{
+  "{numberOfEmployees, plural, one {# Employee} other {# Employees}}": {
+    "origin": [
+      [
+        "src/atomic/molecules/CompanyProfileMainDetails.js",
+        15
+      ]
+    ]
+  },
+  "{jobsCount, plural, one {# job} other {# jobs}}": {
+    "origin": [
+      [
+        "src/atomic/molecules/CompanyProfileMainDetails.js",
+        19
+      ]
+    ]
+  }
+}

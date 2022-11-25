@@ -1,0 +1,26 @@
+{
+  "Welcome to Click To Success!": {
+    "origin": [
+      [
+        "src/atomic/molecules/WelcomeModal.js",
+        12
+      ]
+    ]
+  },
+  "In order to start using our awesome features, please complete your profile information.": {
+    "origin": [
+      [
+        "src/atomic/molecules/WelcomeModal.js",
+        15
+      ]
+    ]
+  },
+  "Continue": {
+    "origin": [
+      [
+        "src/atomic/molecules/WelcomeModal.js",
+        23
+      ]
+    ]
+  }
+}

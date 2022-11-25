@@ -1,0 +1,182 @@
+{
+  "Name is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        66
+      ]
+    ]
+  },
+  "Gender is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        69
+      ]
+    ]
+  },
+  "Current job status is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        72
+      ]
+    ]
+  },
+  "Highest graduation level is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        75
+      ]
+    ]
+  },
+  "Country is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        78
+      ]
+    ]
+  },
+  "City is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        81
+      ]
+    ]
+  },
+  "Postal Code is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        84
+      ]
+    ]
+  },
+  "Street is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        87
+      ]
+    ]
+  },
+  "Graduation is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        90
+      ]
+    ]
+  },
+  "Mobility is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        93
+      ]
+    ]
+  },
+  "Has driver license is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        96
+      ]
+    ]
+  },
+  "Max grade of 100": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        99
+      ]
+    ]
+  },
+  "Min grade of 0": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        100
+      ]
+    ]
+  },
+  "Grade point average is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        101
+      ]
+    ]
+  },
+  "Invalid date. Format as mm/dd/yyyy.": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        103
+      ],
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        108
+      ]
+    ]
+  },
+  "Birthday is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        105
+      ]
+    ]
+  },
+  "Available from is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        109
+      ]
+    ]
+  },
+  "Choose at least 1 skill": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        112
+      ]
+    ]
+  },
+  "Choose at least 1 interest": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        117
+      ]
+    ]
+  },
+  "Choose at least 1 strength": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        122
+      ]
+    ]
+  },
+  "You are leaving the page without saving and will lose all changed data.": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        235
+      ]
+    ]
+  },
+  "Leave": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Edit.js",
+        242
+      ]
+    ]
+  }
+}

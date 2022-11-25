@@ -1,0 +1,18 @@
+{
+  "Are you sure you want to remove this Job Offer?": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/List.js",
+        100
+      ]
+    ]
+  },
+  "Yes": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/List.js",
+        104
+      ]
+    ]
+  }
+}

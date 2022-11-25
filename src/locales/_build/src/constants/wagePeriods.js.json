@@ -1,0 +1,26 @@
+{
+  "Hour": {
+    "origin": [
+      [
+        "src/constants/wagePeriods.js",
+        5
+      ]
+    ]
+  },
+  "Week": {
+    "origin": [
+      [
+        "src/constants/wagePeriods.js",
+        6
+      ]
+    ]
+  },
+  "Month": {
+    "origin": [
+      [
+        "src/constants/wagePeriods.js",
+        7
+      ]
+    ]
+  }
+}

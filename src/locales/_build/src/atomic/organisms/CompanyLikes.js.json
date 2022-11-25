@@ -1,0 +1,26 @@
+{
+  "Likes": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyLikes.js",
+        20
+      ]
+    ]
+  },
+  "Liked from": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyLikes.js",
+        28
+      ]
+    ]
+  },
+  "Hunted": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyLikes.js",
+        34
+      ]
+    ]
+  }
+}

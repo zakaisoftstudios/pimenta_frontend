@@ -1,0 +1,50 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: frontend-react
+  labels:
+    name: frontend-react
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        name: frontend-react
+    spec:
+      containers:
+        - name: frontend-react
+          image: gcr.io/pimenta-success/nextstep_frontend_react:develop-staging
+          ports:
+            - containerPort: 80
+          livenessProbe:
+            httpGet:
+              path: /
+              port: 80
+            initialDelaySeconds: 5
+            timeoutSeconds: 1
+          readinessProbe:
+            httpGet:
+              path: /
+              port: 80
+            initialDelaySeconds: 5
+            timeoutSeconds: 1
+          env:
+            - name: FRONTEND_HOST
+              valueFrom:
+                configMapKeyRef:
+                  name: frontend-config
+                  key: API_HOST
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: frontend-react
+spec:
+  ports:
+  - name: http
+    port: 80
+    protocol: TCP
+    targetPort: 80
+  selector:
+    name: frontend-react
+  type: ClusterIP

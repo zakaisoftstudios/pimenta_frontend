@@ -1,0 +1,166 @@
+{
+  "Student": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        13
+      ]
+    ]
+  },
+  "Profile": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        22
+      ],
+      [
+        "src/constants/profileTypes.js",
+        80
+      ],
+      [
+        "src/constants/profileTypes.js",
+        121
+      ]
+    ]
+  },
+  "Search": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        28
+      ]
+    ]
+  },
+  "Chat": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        34
+      ],
+      [
+        "src/constants/profileTypes.js",
+        74
+      ]
+    ]
+  },
+  "Likes": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        40
+      ],
+      [
+        "src/constants/profileTypes.js",
+        68
+      ],
+      [
+        "src/constants/profileTypes.js",
+        115
+      ]
+    ]
+  },
+  "Company": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        47
+      ]
+    ]
+  },
+  "Jobs": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        56
+      ]
+    ]
+  },
+  "Hunting": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        62
+      ]
+    ]
+  },
+  "What we do": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        86
+      ]
+    ]
+  },
+  "Why we do it": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        87
+      ]
+    ]
+  },
+  "Why you should join": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        89
+      ]
+    ]
+  },
+  "Special Features": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        93
+      ]
+    ]
+  },
+  "University": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        100
+      ]
+    ]
+  },
+  "Subjects": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        108
+      ]
+    ]
+  },
+  "We are": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        127
+      ]
+    ]
+  },
+  "Why you should study here": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        129
+      ]
+    ]
+  },
+  "Subject areas": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        132
+      ]
+    ]
+  },
+  "Special features & Partners of the university": {
+    "origin": [
+      [
+        "src/constants/profileTypes.js",
+        134
+      ]
+    ]
+  }
+}

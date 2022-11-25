@@ -1,0 +1,26 @@
+{
+  "Title is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Certificates.js",
+        93
+      ]
+    ]
+  },
+  "PDF is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Certificates.js",
+        98
+      ]
+    ]
+  },
+  "Should be a PDF file": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/Certificates.js",
+        103
+      ]
+    ]
+  }
+}

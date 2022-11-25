@@ -1,0 +1,58 @@
+{
+  "About this site": {
+    "origin": [
+      [
+        "src/atomic/atoms/Footer.js",
+        12
+      ]
+    ]
+  },
+  "Terms & Conditions": {
+    "origin": [
+      [
+        "src/atomic/atoms/Footer.js",
+        15
+      ]
+    ]
+  },
+  "Privacy Policy": {
+    "origin": [
+      [
+        "src/atomic/atoms/Footer.js",
+        18
+      ]
+    ]
+  },
+  "Security": {
+    "origin": [
+      [
+        "src/atomic/atoms/Footer.js",
+        21
+      ]
+    ]
+  },
+  "Language: English": {
+    "origin": [
+      [
+        "src/atomic/atoms/Footer.js",
+        24
+      ]
+    ]
+  },
+  "The contents were researched with great care. Nevertheless, C2SU accepts no liability for the accuracy, completeness and timeliness of the information provided. In particular, the information is also of a general nature and does not constitute legal advice in individual cases. For solving specific legal cases, in particular within the framework of the GDPR, you must consult a lawyer. Download European Data Protection Regulation as PDF": {
+    "origin": [
+      [
+        "src/atomic/atoms/Footer.js",
+        29
+      ]
+    ]
+  },
+  "© C2SU | All right reserved": {
+    "origin": [
+      [
+        "src/atomic/atoms/Footer.js",
+        40
+      ]
+    ]
+  }
+}

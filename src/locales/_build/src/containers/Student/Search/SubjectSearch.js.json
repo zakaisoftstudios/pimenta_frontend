@@ -1,0 +1,30 @@
+{
+  "Min 1": {
+    "origin": [
+      [
+        "src/containers/Student/Search/SubjectSearch.js",
+        60
+      ],
+      [
+        "src/containers/Student/Search/SubjectSearch.js",
+        63
+      ]
+    ]
+  },
+  "Max 15": {
+    "origin": [
+      [
+        "src/containers/Student/Search/SubjectSearch.js",
+        66
+      ]
+    ]
+  },
+  "Invalid date. Format as mm/dd/yyyy.": {
+    "origin": [
+      [
+        "src/containers/Student/Search/SubjectSearch.js",
+        68
+      ]
+    ]
+  }
+}

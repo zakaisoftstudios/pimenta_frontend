@@ -1,0 +1,74 @@
+{
+  "Return": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobDetails.js",
+        59
+      ]
+    ]
+  },
+  "Job Offers": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobDetails.js",
+        64
+      ]
+    ]
+  },
+  "Skills": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobDetails.js",
+        97
+      ]
+    ]
+  },
+  "Interests": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobDetails.js",
+        103
+      ]
+    ]
+  },
+  "Strengths": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobDetails.js",
+        109
+      ]
+    ]
+  },
+  "What is expected from us": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobDetails.js",
+        116
+      ]
+    ]
+  },
+  "What is expected from you": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobDetails.js",
+        121
+      ]
+    ]
+  },
+  "Tasks": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobDetails.js",
+        125
+      ]
+    ]
+  },
+  "Perspectives": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobDetails.js",
+        127
+      ]
+    ]
+  }
+}

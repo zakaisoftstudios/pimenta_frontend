@@ -1,0 +1,52 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background: #0000 6.25%;
+}
+
+.ie-warning {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.ie-warning .c2su-logo {
+  width: 400px;
+  height: auto;
+  margin: 50px auto;
+}
+
+.ie-warning .cannot-render {
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.ie-warning .browser-logos {
+  margin-top: 50px;
+}
+
+.ie-warning .browser-logos a {
+  margin-right: 10px;
+}
+
+a,
+img {
+  border: none;
+  outline: none;
+}
+
+.ie-warning .browser-logos a:last-of-type {
+  margin-right: 0;
+}
+
+.ie-warning .browser-logos img {
+  width: 50px;
+  height: auto;
+  opacity: 0.8;
+}

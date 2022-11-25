@@ -1,0 +1,138 @@
+{
+  "Name is required": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        96
+      ]
+    ]
+  },
+  "Invalid email": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        99
+      ]
+    ]
+  },
+  "City is required": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        103
+      ]
+    ]
+  },
+  "Country is required": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        106
+      ]
+    ]
+  },
+  "Postal Code is required": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        109
+      ]
+    ]
+  },
+  "Address (street and number) is required": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        112
+      ]
+    ]
+  },
+  "Industry sector is required": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        115
+      ]
+    ]
+  },
+  "Number of employees must be positive": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        118
+      ]
+    ]
+  },
+  "Number of employees is required": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        119
+      ]
+    ]
+  },
+  "What we do is required": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        122
+      ]
+    ]
+  },
+  "Why we do it is required": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        125
+      ]
+    ]
+  },
+  "Why you should join is required": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        128
+      ]
+    ]
+  },
+  "Invalid URL (e.g., https://google.com)": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        131
+      ],
+      [
+        "src/containers/Company/Profile/Edit.js",
+        134
+      ],
+      [
+        "src/containers/Company/Profile/Edit.js",
+        137
+      ],
+      [
+        "src/containers/Company/Profile/Edit.js",
+        140
+      ],
+      [
+        "src/containers/Company/Profile/Edit.js",
+        143
+      ]
+    ]
+  },
+  "You are leaving the page without saving and will lose all changed data.": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        170
+      ]
+    ]
+  },
+  "Leave": {
+    "origin": [
+      [
+        "src/containers/Company/Profile/Edit.js",
+        177
+      ]
+    ]
+  }
+}

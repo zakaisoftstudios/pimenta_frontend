@@ -1,0 +1,82 @@
+{
+  "Certificate": {
+    "origin": [
+      [
+        "src/constants/typesOfDegree.js",
+        6
+      ]
+    ]
+  },
+  "Bachelor of Science (BSc)": {
+    "origin": [
+      [
+        "src/constants/typesOfDegree.js",
+        10
+      ]
+    ]
+  },
+  "Bachelor of Arts (BA)": {
+    "origin": [
+      [
+        "src/constants/typesOfDegree.js",
+        13
+      ]
+    ]
+  },
+  "Master of Science (MSc)": {
+    "origin": [
+      [
+        "src/constants/typesOfDegree.js",
+        14
+      ]
+    ]
+  },
+  "Master of Arts (MA)": {
+    "origin": [
+      [
+        "src/constants/typesOfDegree.js",
+        15
+      ]
+    ]
+  },
+  "PDEng": {
+    "origin": [
+      [
+        "src/constants/typesOfDegree.js",
+        16
+      ]
+    ]
+  },
+  "PhD": {
+    "origin": [
+      [
+        "src/constants/typesOfDegree.js",
+        18
+      ]
+    ]
+  },
+  "Bachelor of Laws (LLB)": {
+    "origin": [
+      [
+        "src/constants/typesOfDegree.js",
+        22
+      ]
+    ]
+  },
+  "Master of Laws (LLM)": {
+    "origin": [
+      [
+        "src/constants/typesOfDegree.js",
+        25
+      ]
+    ]
+  },
+  "Seminar": {
+    "origin": [
+      [
+        "src/constants/typesOfDegree.js",
+        26
+      ]
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Likes given": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentLikes.js",
+        29
+      ]
+    ]
+  },
+  "Hunted by": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentLikes.js",
+        36
+      ]
+    ]
+  },
+  "Subjects": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentLikes.js",
+        43
+      ]
+    ]
+  }
+}

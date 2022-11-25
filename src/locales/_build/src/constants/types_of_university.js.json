@@ -1,0 +1,18 @@
+{
+  "Public": {
+    "origin": [
+      [
+        "src/constants/types_of_university.js",
+        5
+      ]
+    ]
+  },
+  "Private": {
+    "origin": [
+      [
+        "src/constants/types_of_university.js",
+        6
+      ]
+    ]
+  }
+}

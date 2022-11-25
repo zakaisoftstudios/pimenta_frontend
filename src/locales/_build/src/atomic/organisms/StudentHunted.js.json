@@ -1,0 +1,10 @@
+{
+  "you haven't been hunted by any company yet": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentHunted.js",
+        42
+      ]
+    ]
+  }
+}

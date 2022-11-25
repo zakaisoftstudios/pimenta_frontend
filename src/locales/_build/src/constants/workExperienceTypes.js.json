@@ -1,0 +1,50 @@
+{
+  "Mini Job": {
+    "origin": [
+      [
+        "src/constants/workExperienceTypes.js",
+        5
+      ]
+    ]
+  },
+  "Internship": {
+    "origin": [
+      [
+        "src/constants/workExperienceTypes.js",
+        8
+      ]
+    ]
+  },
+  "Aprrencticeship": {
+    "origin": [
+      [
+        "src/constants/workExperienceTypes.js",
+        12
+      ]
+    ]
+  },
+  "Trainee": {
+    "origin": [
+      [
+        "src/constants/workExperienceTypes.js",
+        16
+      ]
+    ]
+  },
+  "Full Time Job": {
+    "origin": [
+      [
+        "src/constants/workExperienceTypes.js",
+        20
+      ]
+    ]
+  },
+  "Part Time Job": {
+    "origin": [
+      [
+        "src/constants/workExperienceTypes.js",
+        24
+      ]
+    ]
+  }
+}

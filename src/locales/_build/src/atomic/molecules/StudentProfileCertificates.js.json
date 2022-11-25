@@ -1,0 +1,18 @@
+{
+  "Certificates": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileCertificates.js",
+        12
+      ]
+    ]
+  },
+  "no certificates": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileCertificates.js",
+        24
+      ]
+    ]
+  }
+}

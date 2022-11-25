@@ -1,0 +1,50 @@
+{
+  "Create an account": {
+    "origin": [
+      [
+        "src/atomic/organisms/FacebookSignup.js",
+        36
+      ]
+    ]
+  },
+  "You are:": {
+    "origin": [
+      [
+        "src/atomic/organisms/FacebookSignup.js",
+        44
+      ]
+    ]
+  },
+  "Start now with Facebook": {
+    "origin": [
+      [
+        "src/atomic/organisms/FacebookSignup.js",
+        55
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/atomic/organisms/FacebookSignup.js",
+        59
+      ]
+    ]
+  },
+  "Terms and Conditions": {
+    "origin": [
+      [
+        "src/atomic/organisms/FacebookSignup.js",
+        69
+      ]
+    ]
+  },
+  "I have read the terms of use and agree.": {
+    "origin": [
+      [
+        "src/atomic/organisms/FacebookSignup.js",
+        72
+      ]
+    ]
+  }
+}

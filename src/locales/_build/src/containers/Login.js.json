@@ -1,0 +1,50 @@
+{
+  "Login error": {
+    "origin": [
+      [
+        "src/containers/Login.js",
+        73
+      ]
+    ]
+  },
+  "Invalid credentials": {
+    "origin": [
+      [
+        "src/containers/Login.js",
+        94
+      ]
+    ]
+  },
+  "Profile type is required": {
+    "origin": [
+      [
+        "src/containers/Login.js",
+        114
+      ]
+    ]
+  },
+  "Invalid email address": {
+    "origin": [
+      [
+        "src/containers/Login.js",
+        116
+      ]
+    ]
+  },
+  "Email is required": {
+    "origin": [
+      [
+        "src/containers/Login.js",
+        117
+      ]
+    ]
+  },
+  "Password is required": {
+    "origin": [
+      [
+        "src/containers/Login.js",
+        118
+      ]
+    ]
+  }
+}

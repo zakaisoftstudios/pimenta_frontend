@@ -1,0 +1,2073 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-05-14 15:14-0400\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/atomic/organisms/QualitiesForm.js:173
+#: src/atomic/organisms/StudentProfileForm.js:247
+#: src/atomic/organisms/StudentProfileForm.js:272
+#: src/atomic/organisms/StudentProfileForm.js:297
+msgid "(Choose up to 5)"
+msgstr "(Choose up to 5)"
+
+#: src/atomic/organisms/QualitiesForm.js:89
+msgid "(can have)"
+msgstr "(can have)"
+
+#: src/atomic/organisms/QualitiesForm.js:89
+msgid "(must have)"
+msgstr "(must have)"
+
+#: src/atomic/organisms/UniversityProfile.js:79
+msgid "About"
+msgstr "About"
+
+#: src/atomic/organisms/StudentProfile.js:82
+#: src/atomic/organisms/StudentPublicProfile.js:83
+msgid "About me"
+msgstr "About me"
+
+#: src/atomic/atoms/Footer.js:12
+msgid "About this site"
+msgstr "About this site"
+
+#: src/atomic/organisms/CompanyProfile.js:62
+#: src/atomic/organisms/CompanyProfileForm.js:87
+msgid "About us"
+msgstr "About us"
+
+#: src/atomic/organisms/CompanyHuntForm.js:56
+msgid "Filter"
+msgid "Filter"
+
+#: src/atomic/organisms/Certificates.js:118
+#: src/atomic/organisms/EditEducationEntries.js:110
+#: src/atomic/organisms/JobListing.js:41
+#: src/atomic/organisms/NewEducationEntry.js:112
+#: src/atomic/organisms/NewWorkExperience.js:114
+#: src/atomic/organisms/SubjectListing.js:40
+#: src/atomic/organisms/WorkExperiences.js:110
+msgid "Add"
+msgstr "Add"
+
+#: src/atomic/organisms/Certificates.js:125
+msgid "Add Certificate"
+msgstr "Add Certificate"
+
+#: src/atomic/organisms/CompanyProfileForm.js:126
+#: src/atomic/organisms/UniversityProfileForm.js:129
+msgid "Address"
+msgstr "Address"
+
+#: src/atomic/organisms/CompanyProfileForm.js:162
+#: src/atomic/organisms/JobForm.js:139
+#: src/atomic/organisms/StudentProfileForm.js:182
+#: src/atomic/organisms/SubjectForm.js:145
+#: src/atomic/organisms/UniversityProfileForm.js:165
+msgid "Address (street and number)"
+msgstr "Address (street and number)"
+
+#: src/containers/Company/Jobs/Form/Form.js:129
+#: src/containers/Company/Profile/Edit.js:112
+#: src/containers/University/Profile/Edit.js:126
+#: src/containers/University/Subjects/Form.js:127
+msgid "Address (street and number) is required"
+msgstr "Address (street and number) is required"
+
+#: src/atomic/organisms/CompanyHuntForm.js:85
+msgid "Age from"
+msgstr "Age from"
+
+#: src/atomic/organisms/CompanyHuntForm.js:94
+msgid "Age to"
+msgstr "Age to"
+
+#: src/constants/jobOfferCategories.js:14
+msgid "All"
+msgstr "All"
+
+#: src/constants/genders.js:10
+#: src/constants/huntAges.js:10
+#: src/constants/huntDistances.js:12
+msgid "Any"
+msgstr "Any"
+
+#: src/atomic/molecules/ImageUploader.js:142
+#: src/atomic/molecules/VideoUploader.js:90
+#: src/atomic/organisms/CompanyHuntForm.js:187
+#: src/atomic/organisms/JobSearchForm.js:130
+#: src/atomic/organisms/SubjectSearchForm.js:142
+msgid "Apply"
+msgstr "Apply"
+
+#: src/constants/jobOfferCategories.js:5
+msgid "Aprenticeship"
+msgstr "Aprenticeship"
+
+#: src/constants/workExperienceTypes.js:12
+msgid "Aprrencticeship"
+msgstr "Aprrencticeship"
+
+#: src/containers/Company/Jobs/List.js:100
+msgid "Are you sure you want to remove this Job Offer?"
+msgstr "Are you sure you want to remove this Job Offer?"
+
+#: src/containers/University/Subjects/List.js:103
+msgid "Are you sure you want to remove this Subject Offer?"
+msgstr "Are you sure you want to remove this Subject Offer?"
+
+#: src/atomic/molecules/ActionModal.js:11
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+#: src/atomic/organisms/NewEducationEntry.js:100
+#: src/atomic/organisms/StudentProfileForm.js:125
+msgid "Area of graduation"
+msgstr "Area of graduation"
+
+#: src/atomic/organisms/EducationEntry.js:32
+msgid "Area of graduation: {0}"
+msgstr "Area of graduation: {0}"
+
+#: src/atomic/molecules/StudentProfileEducational.js:44
+msgid "Area of graduation: {area_of_graduation}"
+msgstr "Area of graduation: {area_of_graduation}"
+
+#: src/atomic/organisms/WorkExperience.js:19
+#: src/atomic/organisms/WorkExperience.js:21
+#~ msgid "At {0,date}"
+#~ msgstr "At {0,date}"
+
+#: src/atomic/organisms/StudentProfileForm.js:229
+#~ msgid "Available From"
+#~ msgstr "Available From"
+
+#: src/atomic/organisms/StudentProfileForm.js:227
+msgid "Available From (mm/dd/yyyy)"
+msgstr "Available From (mm/dd/yyyy)"
+
+#: src/atomic/organisms/StudentProfileForm.js:202
+msgid "Available for mobility"
+msgstr "Available for mobility"
+
+#: src/atomic/molecules/StudentProfileDetails.js:77
+msgid "Available for mobility: {0}"
+msgstr "Available for mobility: {0}"
+
+#: src/atomic/molecules/StudentProfileDetails.js:76
+#~ msgid "Available for mobility: {mobility}"
+#~ msgstr "Available for mobility: {mobility}"
+
+#: src/containers/Student/Profile/Edit/Edit.js:109
+msgid "Available from is required"
+msgstr "Available from is required"
+
+#: src/services/attachments/index.js:16
+msgid "Avatar Image"
+msgstr "Avatar Image"
+
+#: src/atomic/organisms/NewEducationEntry.js:90
+msgid "Average Grade"
+msgstr "Average Grade"
+
+#: src/atomic/organisms/EducationEntry.js:27
+msgid "Average Grade: {0}"
+msgstr "Average Grade: {0}"
+
+#: src/atomic/molecules/StudentProfileEducational.js:40
+msgid "Average Grade: {grade_point_average}"
+msgstr "Average Grade: {grade_point_average}"
+
+#: src/atomic/organisms/StudentProfileForm.js:134
+msgid "Average grade"
+msgstr "Average grade"
+
+#: src/atomic/molecules/StudentProfileDetails.js:70
+msgid "Average grade {gradePointAverage}"
+msgstr "Average grade {gradePointAverage}"
+
+#: src/constants/typesOfDegree.js:13
+msgid "Bachelor of Arts (BA)"
+msgstr "Bachelor of Arts (BA)"
+
+#: src/constants/typesOfDegree.js:22
+msgid "Bachelor of Laws (LLB)"
+msgstr "Bachelor of Laws (LLB)"
+
+#: src/constants/typesOfDegree.js:10
+msgid "Bachelor of Science (BSc)"
+msgstr "Bachelor of Science (BSc)"
+
+#: src/services/attachments/index.js:28
+msgid "Banner Image"
+msgstr "Banner Image"
+
+#: src/atomic/molecules/CompanyProfileContactInfo.js:29
+#: src/atomic/molecules/UniversityProfileContactInfo.js:27
+#: src/atomic/organisms/CompanyProfileForm.js:123
+#: src/atomic/organisms/UniversityProfileForm.js:126
+msgid "Be in touch"
+msgstr "Be in touch"
+
+#: src/atomic/organisms/StudentProfileForm.js:148
+#~ msgid "Birthday"
+#~ msgstr "Birthday"
+
+#: src/atomic/organisms/StudentProfileForm.js:144
+msgid "Birthday (mm/dd/yyyy)"
+msgstr "Birthday (mm/dd/yyyy)"
+
+#: src/containers/Student/Profile/Edit/Edit.js:105
+msgid "Birthday is required"
+msgstr "Birthday is required"
+
+#: src/atomic/molecules/QualitiesList.js:23
+msgid "Can have:"
+msgstr "Can have:"
+
+#: src/atomic/molecules/ActionModal.js:16
+#: src/atomic/organisms/Certificates.js:110
+#: src/atomic/organisms/CompanyProfileForm.js:54
+#: src/atomic/organisms/CompanyProfileForm.js:233
+#: src/atomic/organisms/FacebookSignup.js:59
+#: src/atomic/organisms/JobForm.js:57
+#: src/atomic/organisms/JobForm.js:277
+#: src/atomic/organisms/NewEducationEntry.js:109
+#: src/atomic/organisms/NewWorkExperience.js:111
+#: src/atomic/organisms/StudentProfileForm.js:76
+#: src/atomic/organisms/StudentProfileForm.js:364
+#: src/atomic/organisms/SubjectForm.js:63
+#: src/atomic/organisms/SubjectForm.js:289
+#: src/atomic/organisms/UniversityProfileForm.js:56
+#: src/atomic/organisms/UniversityProfileForm.js:228
+msgid "Cancel"
+msgstr "Cancel"
+
+#: src/constants/typesOfDegree.js:6
+msgid "Certificate"
+msgstr "Certificate"
+
+#: src/atomic/molecules/StudentProfileCertificates.js:12
+#: src/atomic/organisms/Certificates.js:33
+msgid "Certificates"
+msgstr "Certificates"
+
+#: src/constants/typesOfDegree.js:6
+msgid "Re-education"
+msgstr "Re-education"
+
+#: src/constants/typesOfDegree.js:6
+msgid "Business Economist"
+msgstr "Business Economist"
+
+#: src/constants/typesOfDegree.js:6
+msgid "Apprenticeship"
+msgstr "Apprenticeship"
+
+#: src/atomic/molecules/PasswordResetForm.js:48
+msgid "Change Password"
+msgstr "Change Password"
+
+#: src/constants/profileTypes.js:34
+#: src/constants/profileTypes.js:74
+msgid "Chat"
+msgstr "Chat"
+
+#: src/atomic/molecules/ImageUploader.js:135
+#: src/atomic/molecules/ImageUploader.js:138
+msgid "Choose Image"
+msgstr "Choose Image"
+
+#: src/atomic/molecules/VideoUploader.js:85
+msgid "Choose Video"
+msgstr "Choose Video"
+
+#: src/containers/Student/Profile/Edit/Edit.js:117
+msgid "Choose at least 1 interest"
+msgstr "Choose at least 1 interest"
+
+#: src/containers/Student/Profile/Edit/Edit.js:112
+msgid "Choose at least 1 skill"
+msgstr "Choose at least 1 skill"
+
+#: src/containers/Student/Profile/Edit/Edit.js:122
+msgid "Choose at least 1 strength"
+msgstr "Choose at least 1 strength"
+
+#: src/atomic/organisms/CompanyHuntForm.js:154
+#: src/atomic/organisms/CompanyHuntForm.js:166
+#: src/atomic/organisms/CompanyHuntForm.js:178
+msgid "Choose up to 5"
+msgstr "Choose up to 5"
+
+#: src/atomic/organisms/CompanyProfileForm.js:144
+#: src/atomic/organisms/JobForm.js:121
+#: src/atomic/organisms/NewEducationEntry.js:66
+#: src/atomic/organisms/NewWorkExperience.js:85
+#: src/atomic/organisms/StudentProfileForm.js:164
+#: src/atomic/organisms/SubjectForm.js:127
+#: src/atomic/organisms/UniversityProfileForm.js:147
+msgid "City"
+msgstr "City"
+
+#: src/containers/Company/Jobs/Form/Form.js:121
+#: src/containers/Company/Profile/Edit.js:103
+#: src/containers/Student/Profile/Edit/Edit.js:81
+#: src/containers/Student/Profile/Edit/EducationEntries.js:34
+#: src/containers/Student/Profile/Edit/WorkExperiences.js:37
+#: src/containers/University/Profile/Edit.js:117
+#: src/containers/University/Subjects/Form.js:119
+msgid "City is required"
+msgstr "City is required"
+
+#: src/atomic/molecules/Search.js:86
+#: src/atomic/organisms/CompanyHuntForm.js:74
+msgid "Clear filters"
+msgstr "Clear filters"
+
+#: src/constants/profileTypes.js:47
+msgid "Company"
+msgstr "Company"
+
+#: src/atomic/organisms/CompanyProfileForm.js:64
+msgid "Company Name"
+msgstr "Company Name"
+
+#: src/atomic/molecules/TrashMessageModal.js:28
+#: src/containers/Chat/Chat.js:211
+msgid "Confirm"
+msgstr "Confirm"
+
+#: src/atomic/organisms/CompanyProfileForm.js:182
+#: src/atomic/organisms/UniversityProfileForm.js:185
+msgid "Contact Email"
+msgstr "Contact Email"
+
+#: src/atomic/organisms/SubjectDetails.js:118
+#: src/atomic/organisms/SubjectForm.js:243
+msgid "Content"
+msgstr "Content"
+
+#: src/containers/Company/Jobs/Form/Form.js:113
+#: src/containers/University/Subjects/Form.js:154
+msgid "Content is required"
+msgstr "Content is required"
+
+#: src/atomic/molecules/MatchMessageModal.js:38
+#: src/atomic/molecules/WelcomeModal.js:23
+msgid "Continue"
+msgstr "Continue"
+
+#: src/atomic/organisms/SubjectSearchForm.js:55
+msgid "Cost from"
+msgstr "Cost from"
+
+#: src/atomic/organisms/SubjectSearchForm.js:65
+msgid "Cost to"
+msgstr "Cost to"
+
+#: src/atomic/organisms/CompanyProfileForm.js:135
+#: src/atomic/organisms/JobForm.js:112
+#: src/atomic/organisms/NewEducationEntry.js:72
+#: src/atomic/organisms/NewWorkExperience.js:92
+#: src/atomic/organisms/StudentProfileForm.js:155
+#: src/atomic/organisms/SubjectForm.js:118
+#: src/atomic/organisms/UniversityProfileForm.js:138
+msgid "Country"
+msgstr "Country"
+
+#: src/containers/Company/Jobs/Form/Form.js:125
+#: src/containers/Company/Profile/Edit.js:106
+#: src/containers/Student/Profile/Edit/Edit.js:78
+#: src/containers/Student/Profile/Edit/EducationEntries.js:35
+#: src/containers/Student/Profile/Edit/WorkExperiences.js:38
+#: src/containers/University/Profile/Edit.js:120
+#: src/containers/University/Subjects/Form.js:123
+msgid "Country is required"
+msgstr "Country is required"
+
+#: src/services/attachments/index.js:10
+msgid "Cover Image"
+msgstr "Cover Image"
+
+#: src/atomic/molecules/RegisterForm.js:39
+#: src/atomic/organisms/FacebookSignup.js:36
+msgid "Create an account"
+msgstr "Create an account"
+
+#: src/atomic/organisms/StudentProfileForm.js:104
+msgid "Current job status"
+msgstr "Current job status"
+
+#: src/containers/Student/Profile/Edit/Edit.js:72
+msgid "Current job status is required"
+msgstr "Current job status is required"
+
+#: src/atomic/organisms/Certificates.js:49
+#: src/atomic/organisms/Certificates.js:74
+#: src/atomic/organisms/EditEducationEntries.js:53
+#: src/atomic/organisms/EditEducationEntries.js:90
+#: src/atomic/organisms/WorkExperiences.js:53
+#: src/atomic/organisms/WorkExperiences.js:90
+msgid "DELETE"
+msgstr "DELETE"
+
+#: src/atomic/molecules/GalleryAttachment.js:54
+msgid "Delete"
+msgstr "Delete"
+
+#: src/atomic/organisms/NewWorkExperience.js:77
+msgid "Department"
+msgstr "Department"
+
+#: src/containers/Student/Profile/Edit/WorkExperiences.js:37
+#~ msgid "Department name is required"
+#~ msgstr "Department name is required"
+
+#: src/atomic/molecules/JobDetailsInfo.js:40
+#: src/atomic/molecules/StudentProfileDetails.js:93
+#: src/atomic/molecules/SubjectDetailsInfo.js:43
+#: src/atomic/organisms/StudentProfileForm.js:313
+msgid "Details"
+msgstr "Details"
+
+#: src/atomic/molecules/LoginForm.js:74
+msgid "Did you forget your password?"
+msgstr "Did you forget your password?"
+
+#: src/constants/studentSearchOrders.js:11
+msgid "Distance (nearest)"
+msgstr "Distance (nearest)"
+
+#: src/constants/studentSearchOrders.js:15
+msgid "Start Date (nearest)"
+msgstr "Start Date (nearest)"
+
+#: src/atomic/molecules/RegisterForm.js:41
+msgid "or learn more <0>here</0>"
+msgstr "or learn more <0>here</0>"
+
+#: src/atomic/molecules/TrashMessageModal.js:22
+msgid "Do you want to remove <0>{targetName}</0>?"
+msgstr "Do you want to remove <0>{targetName}</0>?"
+
+#: src/containers/Chat/Chat.js:202
+msgid "Do you want to remove the conversation? The match will be undone and all the likes and hunts between the party will be removed."
+msgstr "Do you want to remove the conversation? The match will be undone and all the likes and hunts between the party will be removed."
+
+#: src/atomic/molecules/EmailConfirmation.js:25
+#: src/atomic/molecules/RegisterSuccessForm.js:22
+msgid "Done!"
+msgstr "Done!"
+
+#: src/atomic/organisms/SubjectSearchForm.js:94
+msgid "Duration from (h)"
+msgstr "Duration from (h)"
+
+#: src/atomic/organisms/SubjectForm.js:163
+msgid "Duration in hours"
+msgstr "Duration in hours"
+
+#: src/containers/University/Subjects/Form.js:138
+msgid "Duration is required"
+msgstr "Duration is required"
+
+#: src/atomic/organisms/SubjectSearchForm.js:103
+msgid "Duration to (h)"
+msgstr "Duration to (h)"
+
+#: src/atomic/organisms/EditEducationEntries.js:44
+#: src/atomic/organisms/EditEducationEntries.js:81
+#: src/atomic/organisms/WorkExperiences.js:44
+#: src/atomic/organisms/WorkExperiences.js:81
+msgid "EDIT"
+msgstr "EDIT"
+
+#: src/atomic/molecules/JobDetailsHeading.js:37
+#: src/atomic/molecules/SubjectDetailsHeading.js:38
+#: src/atomic/organisms/CompanyProfile.js:63
+#: src/atomic/organisms/StudentProfile.js:83
+#: src/atomic/organisms/UniversityProfile.js:80
+msgid "Edit"
+msgstr "Edit"
+
+#: src/atomic/molecules/StudentProfileEducational.js:16
+#: src/atomic/organisms/EditEducationEntries.js:31
+msgid "Educational"
+msgstr "Educational"
+
+#: src/atomic/organisms/CompanyHuntForm.js:141
+#: src/atomic/organisms/NewEducationEntry.js:82
+msgid "Educational Level"
+msgstr "Educational Level"
+
+#: src/containers/Student/Profile/Edit/EducationEntries.js:37
+msgid "Educational level is required"
+msgstr "Educational level is required"
+
+#: src/containers/ForgotPassword.js:60
+#: src/containers/Login.js:117
+#: src/containers/Register.js:59
+msgid "Email is required"
+msgstr "Email is required"
+
+#: src/atomic/organisms/JobForm.js:163
+#~ msgid "Ending date"
+#~ msgstr "Ending date"
+
+#: src/atomic/organisms/JobForm.js:158
+#~ msgid "Ending date (dd/mm/yyyy)"
+#~ msgstr "Ending date (dd/mm/yyyy)"
+
+#: src/atomic/organisms/JobForm.js:158
+msgid "Ending date (mm/dd/yyyy)"
+msgstr "Ending date (mm/dd/yyyy)"
+
+#: src/containers/Company/Jobs/Form/Form.js:134
+#~ msgid "Ending date must be after starting date"
+#~ msgstr "Ending date must be after starting date"
+
+#: src/atomic/organisms/StudentProfile.js:114
+#: src/atomic/organisms/StudentProfileForm.js:319
+#: src/atomic/organisms/StudentPublicProfile.js:111
+msgid "Experiences"
+msgstr "Experiences"
+
+#: src/constants/genders.js:6
+msgid "Female"
+msgstr "Female"
+
+#: src/atomic/molecules/Search.js:83
+#: src/atomic/organisms/CompanyHuntForm.js:71
+msgid "Filter by"
+msgstr "Filter by"
+
+#: src/atomic/organisms/StudentSearch.js:37
+msgid "For Jobs"
+msgstr "For Jobs"
+
+#: src/atomic/organisms/StudentSearch.js:44
+msgid "For Subjects"
+msgstr "For Subjects"
+
+#: src/atomic/molecules/ForgotPasswordForm.js:41
+msgid "Forgot Password"
+msgstr "Forgot Password"
+
+#: src/atomic/molecules/ForgotPasswordForm.js:25
+msgid "Forgot password"
+msgstr "Forgot password"
+
+#: src/atomic/organisms/NewEducationEntry.js:40
+#~ msgid "From"
+#~ msgstr "From"
+
+#: src/atomic/organisms/NewEducationEntry.js:38
+#: src/atomic/organisms/NewWorkExperience.js:39
+#~ msgid "From (dd/mm/yyyy)"
+#~ msgstr "From (dd/mm/yyyy)"
+
+#: src/atomic/organisms/NewEducationEntry.js:38
+#: src/atomic/organisms/NewWorkExperience.js:39
+msgid "From (mm/dd/yyyy)"
+msgstr "From (mm/dd/yyyy)"
+
+#: src/containers/Student/Profile/Edit/EducationEntries.js:29
+#: src/containers/Student/Profile/Edit/WorkExperiences.js:30
+msgid "From is required"
+msgstr "From is required"
+
+#: src/atomic/molecules/JobDetailsInfo.js:66
+msgid "From {0}"
+msgstr "From {0}"
+
+#: src/atomic/molecules/SubjectDetailsInfo.js:69
+msgid "From {0} • {durationInHours}h"
+msgstr "From {0} • {durationInHours}h"
+
+#: src/constants/workExperienceTypes.js:20
+msgid "Full Time Job"
+msgstr "Full Time Job"
+
+#: src/atomic/molecules/GalleryForm.js:17
+msgid "Gallery"
+msgstr "Gallery"
+
+#: src/atomic/organisms/CompanyHuntForm.js:111
+#: src/atomic/organisms/StudentProfileForm.js:190
+msgid "Gender"
+msgstr "Gender"
+
+#: src/containers/Student/Profile/Edit/Edit.js:69
+msgid "Gender is required"
+msgstr "Gender is required"
+
+#: src/containers/Student/Profile/Edit/Edit.js:101
+#: src/containers/Student/Profile/Edit/EducationEntries.js:40
+msgid "Grade point average is required"
+msgstr "Grade point average is required"
+
+#: src/containers/Student/Profile/Edit/Edit.js:90
+msgid "Graduation is required"
+msgstr "Graduation is required"
+
+#: src/atomic/organisms/StudentProfileForm.js:214
+msgid "Has driver licence"
+msgstr "Has driver licence"
+
+#: src/containers/Student/Profile/Edit/Edit.js:96
+msgid "Has driver license is required"
+msgstr "Has driver license is required"
+
+#: src/atomic/molecules/StudentProfileDetails.js:85
+msgid "Has driver license: {0}"
+msgstr "Has driver license: {0}"
+
+#: src/atomic/organisms/StudentProfileForm.js:117
+msgid "Highest graduation level"
+msgstr "Highest graduation level"
+
+#: src/containers/Student/Profile/Edit/Edit.js:75
+msgid "Highest graduation level is required"
+msgstr "Highest graduation level is required"
+
+#: src/constants/subjectCostPeriods.js:5
+#: src/constants/wagePeriods.js:5
+msgid "Hour"
+msgstr "Hour"
+
+#: src/atomic/organisms/SubjectForm.js:193
+msgid "Hours per week"
+msgstr "Hours per week"
+
+#: src/atomic/organisms/JobSearchResults.js:90
+msgid "How far should be your next step? <0/>A new city or a higher wage? <1/>Maybe you know the industry, but <2/>aren't sure about THE company. <3/><4/>Filter your dream job and we help you find it!"
+msgstr "How far should be your next step? <0/>A new city or a higher wage? <1/>Maybe you know the industry, but <2/>aren't sure about THE company. <3/><4/>Filter your dream job and we help you find it!"
+
+#: src/atomic/organisms/SubjectSearchResults.js:92
+msgid "How far should be your next step? <0/>A new city or a higher wage? <1/>Maybe you know the industry, but <2/>aren't sure about THE company. <3/><4/>Filter your dream subject and we help you find it!"
+msgstr "How far should be your next step? <0/>A new city or a higher wage? <1/>Maybe you know the industry, but <2/>aren't sure about THE company. <3/><4/>Filter your dream subject and we help you find it!"
+
+#: src/atomic/organisms/CompanyLikes.js:34
+msgid "Hunted"
+msgstr "Hunted"
+
+#: src/atomic/molecules/CompanyCard.js:73
+msgid "Hunted at {0}"
+msgstr "Hunted at {0}"
+
+#: src/atomic/organisms/StudentLikes.js:36
+msgid "Hunted by"
+msgstr "Hunted by"
+
+#: src/constants/profileTypes.js:62
+msgid "Hunting"
+msgstr "Hunting"
+
+#: src/atomic/organisms/FacebookSignup.js:72
+#~ msgid "I agree that my personal information will be processed and used by C2SU to further assist and send information about their respective products and services. I can object to the processing or use of my data at any time to the C2SU, Cologne - Germany."
+#~ msgstr "I agree that my personal information will be processed and used by C2SU to further assist and send information about their respective products and services. I can object to the processing or use of my data at any time to the C2SU, Cologne - Germany."
+
+#: src/atomic/molecules/RegisterForm.js:111
+#: src/atomic/organisms/FacebookSignup.js:72
+msgid "I have read the terms of use and agree."
+msgstr "I have read the terms of use and agree."
+
+#: src/services/attachments/index.js:34
+msgid "Image"
+msgstr "Image"
+
+#: src/atomic/molecules/ImageUploader.js:115
+msgid "Image Upload"
+msgstr "Image Upload"
+
+#: src/atomic/molecules/WelcomeModal.js:15
+msgid "In order to start using our awesome features, please complete your profile information."
+msgstr "In order to start using our awesome features, please complete your profile information."
+
+#: src/atomic/organisms/CompanyProfileForm.js:72
+msgid "Industry Sector"
+msgstr "Industry Sector"
+
+#: src/containers/Company/Profile/Edit.js:115
+msgid "Industry sector is required"
+msgstr "Industry sector is required"
+
+#: src/atomic/organisms/NewWorkExperience.js:69
+msgid "Institution"
+msgstr "Institution"
+
+#: src/containers/Student/Profile/Edit/WorkExperiences.js:36
+msgid "Institution is required"
+msgstr "Institution is required"
+
+#: src/constants/jobOfferCategories.js:10
+msgid "Int. Degree Program"
+msgstr "Int. Degree Program"
+
+#: src/atomic/molecules/StudentProfileQualities.js:12
+#: src/atomic/organisms/CompanyHuntForm.js:165
+#: src/atomic/organisms/JobDetails.js:103
+#: src/atomic/organisms/QualitiesForm.js:26
+#: src/atomic/organisms/StudentProfileForm.js:257
+#: src/atomic/organisms/SubjectDetails.js:106
+msgid "Interests"
+msgstr "Interests"
+
+#: src/constants/jobOfferCategories.js:7
+#: src/constants/workExperienceTypes.js:8
+msgid "Internship"
+msgstr "Internship"
+
+#: src/containers/Company/Jobs/Form/Form.js:181
+#: src/containers/Company/Profile/Edit.js:131
+#: src/containers/Company/Profile/Edit.js:134
+#: src/containers/Company/Profile/Edit.js:137
+#: src/containers/Company/Profile/Edit.js:140
+#: src/containers/Company/Profile/Edit.js:143
+#: src/containers/University/Profile/Edit.js:129
+#: src/containers/University/Profile/Edit.js:132
+#: src/containers/University/Profile/Edit.js:135
+#: src/containers/University/Profile/Edit.js:138
+#: src/containers/University/Subjects/Form.js:175
+msgid "Invalid URL (e.g., https://google.com)"
+msgstr "Invalid URL (e.g., https://google.com)"
+
+#: src/containers/Login.js:94
+msgid "Invalid credentials"
+msgstr "Invalid credentials"
+
+#: src/containers/Company/Jobs/Form/Form.js:136
+#: src/containers/Company/Jobs/Form/Form.js:140
+#: src/containers/Student/Profile/Edit/Edit.js:103
+#: src/containers/Student/Profile/Edit/Edit.js:108
+#: src/containers/Student/Profile/Edit/EducationEntries.js:28
+#: src/containers/Student/Profile/Edit/EducationEntries.js:32
+#: src/containers/Student/Profile/Edit/WorkExperiences.js:29
+#: src/containers/Student/Profile/Edit/WorkExperiences.js:33
+#: src/containers/Student/Search/JobSearch.js:83
+#: src/containers/Student/Search/SubjectSearch.js:68
+#: src/containers/University/Subjects/Form.js:134
+msgid "Invalid date. Format as mm/dd/yyyy."
+msgstr "Invalid date. Format as mm/dd/yyyy."
+
+#: src/containers/Company/Profile/Edit.js:99
+#: src/containers/University/Profile/Edit.js:140
+msgid "Invalid email"
+msgstr "Invalid email"
+
+#: src/containers/ForgotPassword.js:59
+#: src/containers/Login.js:116
+#: src/containers/Register.js:58
+msgid "Invalid email address"
+msgstr "Invalid email address"
+
+#: src/atomic/molecules/TrashMessageModal.js:37
+msgid "It will no longer appear in your list."
+msgstr "It will no longer appear in your list."
+
+#: src/constants/jobOfferCategories.js:8
+msgid "Job"
+msgstr "Job"
+
+#: src/atomic/organisms/JobDetails.js:64
+#: src/atomic/organisms/JobForm.js:64
+msgid "Job Offers"
+msgstr "Job Offers"
+
+#: src/atomic/organisms/NewWorkExperience.js:31
+msgid "Job Role"
+msgstr "Job Role"
+
+#: src/containers/Student/Profile/Edit/WorkExperiences.js:34
+msgid "Job Role is required"
+msgstr "Job Role is required"
+
+#: src/atomic/organisms/JobForm.js:92
+msgid "Job Title"
+msgstr "Job Title"
+
+#: src/constants/profileTypes.js:56
+msgid "Jobs"
+msgstr "Jobs"
+
+#: src/atomic/atoms/Footer.js:24
+msgid "Language: English"
+msgstr "Language: English"
+
+#: src/containers/Company/Jobs/Form/Form.js:296
+#: src/containers/Company/Profile/Edit.js:177
+#: src/containers/Student/Profile/Edit/Edit.js:242
+#: src/containers/University/Profile/Edit.js:175
+#: src/containers/University/Subjects/Form.js:289
+msgid "Leave"
+msgstr "Leave"
+
+#: src/atomic/organisms/CompanyLikes.js:28
+#: src/atomic/organisms/UniversityLikedFrom.js:22
+msgid "Liked from"
+msgstr "Liked from"
+
+#: src/atomic/organisms/UniversityLikedFrom.js:50
+msgid "Liked {0} subject offers"
+msgstr "Liked {0} subject offers"
+
+#: src/atomic/organisms/CompanyLikes.js:20
+#: src/constants/profileTypes.js:40
+#: src/constants/profileTypes.js:68
+#: src/constants/profileTypes.js:115
+msgid "Likes"
+msgstr "Likes"
+
+#: src/atomic/organisms/StudentLikes.js:29
+msgid "Likes given"
+msgstr "Likes given"
+
+#: src/atomic/organisms/JobForm.js:212
+#: src/atomic/organisms/SubjectForm.js:232
+msgid "Link to Website"
+msgstr "Link to Website"
+
+#: src/atomic/organisms/CompanyProfileForm.js:167
+#: src/atomic/organisms/UniversityProfileForm.js:170
+msgid "Links"
+msgstr "Links"
+
+#: src/atomic/molecules/EmailConfirmation.js:33
+#: src/atomic/molecules/ForgotPasswordForm.js:44
+#: src/atomic/molecules/LoginForm.js:58
+#: src/atomic/molecules/PasswordResetForm.js:51
+#: src/atomic/molecules/RegisterForm.js:95
+msgid "Login"
+msgstr "Login"
+
+#: src/containers/Login.js:73
+msgid "Login error"
+msgstr "Login error"
+
+#: src/atomic/atoms/Logout.js:9
+msgid "Logout"
+msgstr "Logout"
+
+#: src/services/attachments/index.js:22
+msgid "Main Image"
+msgstr "Main Image"
+
+#: src/constants/genders.js:5
+msgid "Male"
+msgstr "Male"
+
+#: src/constants/typesOfDegree.js:15
+msgid "Master of Arts (MA)"
+msgstr "Master of Arts (MA)"
+
+#: src/constants/typesOfDegree.js:25
+msgid "Master of Laws (LLM)"
+msgstr "Master of Laws (LLM)"
+
+#: src/constants/typesOfDegree.js:14
+msgid "Master of Science (MSc)"
+msgstr "Master of Science (MSc)"
+
+#: src/constants/studentSearchOrders.js:7
+msgid "Match (highest)"
+msgstr "Match (highest)"
+
+#: src/containers/Student/Search/SubjectSearch.js:66
+#: src/containers/University/Subjects/Form.js:148
+msgid "Max 15"
+msgstr "Max 15"
+
+#: src/containers/Student/Search/JobSearch.js:70
+#: src/containers/Student/Search/JobSearch.js:74
+msgid "Max 50"
+msgstr "Max 50"
+
+#: src/atomic/organisms/CompanyHuntForm.js:104
+msgid "Max Average Grade"
+msgstr "Max Average Grade"
+
+#: src/atomic/organisms/CompanyHuntForm.js:133
+#: src/atomic/organisms/JobSearchForm.js:102
+#: src/atomic/organisms/SubjectSearchForm.js:136
+msgid "Max distance"
+msgstr "Max distance"
+
+#: src/containers/Company/StudentHunting/StudentHunting.js:68
+#: src/containers/Student/Profile/Edit/Edit.js:99
+#: src/containers/Student/Profile/Edit/EducationEntries.js:41
+msgid "Max grade of 100"
+msgstr "Max grade of 100"
+
+#: src/containers/Company/Jobs/Form/Form.js:166
+msgid "Maximum working hours per week are 50"
+msgstr "Maximum working hours per week are 50"
+
+#: src/atomic/organisms/Chat.js:28
+msgid "Messages"
+msgstr "Messages"
+
+#: src/containers/Student/Search/JobSearch.js:69
+#: src/containers/Student/Search/JobSearch.js:73
+#: src/containers/Student/Search/JobSearch.js:77
+#: src/containers/Student/Search/JobSearch.js:80
+#: src/containers/Student/Search/SubjectSearch.js:60
+#: src/containers/Student/Search/SubjectSearch.js:63
+msgid "Min 1"
+msgstr "Min 1"
+
+#: src/containers/University/Subjects/Form.js:142
+msgid "Min 1 place"
+msgstr "Min 1 place"
+
+#: src/atomic/organisms/CompanyHuntForm.js:104
+#~ msgid "Min Average Grade"
+#~ msgstr "Min Average Grade"
+
+#: src/containers/University/Subjects/Form.js:145
+msgid "Min cost of 0"
+msgstr "Min cost of 0"
+
+#: src/containers/Student/Profile/Edit/Edit.js:100
+#: src/containers/Student/Profile/Edit/EducationEntries.js:42
+msgid "Min grade of 0"
+msgstr "Min grade of 0"
+
+#: src/containers/Company/StudentHunting/StudentHunting.js:69
+msgid "Min grade of 1"
+msgstr "Min grade of 1"
+
+#: src/constants/workExperienceTypes.js:5
+msgid "Mini Job"
+msgstr "Mini Job"
+
+#: src/atomic/organisms/JobForm.js:201
+#: src/atomic/organisms/JobSearchForm.js:124
+#: src/atomic/organisms/SubjectForm.js:221
+#: src/atomic/organisms/SubjectSearchForm.js:123
+msgid "Minimum Degree"
+msgstr "Minimum Degree"
+
+#: src/containers/Company/Jobs/Form/Form.js:146
+#: src/containers/University/Subjects/Form.js:151
+msgid "Minimum Degree is required"
+msgstr "Minimum Degree is required"
+
+#: src/containers/Company/Jobs/Form/Form.js:165
+msgid "Minimum working hours per week is 1"
+msgstr "Minimum working hours per week is 1"
+
+#: src/atomic/organisms/CompanyHuntForm.js:122
+msgid "Mobility"
+msgstr "Mobility"
+
+#: src/containers/Student/Profile/Edit/Edit.js:93
+msgid "Mobility is required"
+msgstr "Mobility is required"
+
+#: src/constants/subjectCostPeriods.js:7
+#: src/constants/wagePeriods.js:7
+msgid "Month"
+msgstr "Month"
+
+#: src/constants/subjectCostPeriods.js:7
+#: src/constants/wagePeriods.js:7
+msgid "Year"
+msgstr "Year"
+
+#: src/atomic/organisms/StudentProfile.js:108
+#: src/atomic/organisms/StudentProfileForm.js:307
+#: src/atomic/organisms/StudentPublicProfile.js:106
+msgid "More"
+msgstr "More"
+
+#: src/atomic/molecules/QualitiesList.js:16
+msgid "Must have:"
+msgstr "Must have:"
+
+#: src/atomic/organisms/StudentProfileForm.js:86
+msgid "Name"
+msgstr "Name"
+
+#: src/containers/Company/Profile/Edit.js:96
+#: src/containers/Register.js:56
+#: src/containers/Student/Profile/Edit/Edit.js:66
+#: src/containers/University/Profile/Edit.js:98
+msgid "Name is required"
+msgstr "Name is required"
+
+#: src/atomic/organisms/UniversityProfileForm.js:66
+msgid "Name of the University"
+msgstr "Name of the University"
+
+#: src/atomic/organisms/SubjectForm.js:98
+msgid "Name of the class"
+msgstr "Name of the class"
+
+#: src/containers/University/Subjects/Form.js:111
+msgid "Name of the class is required"
+msgstr "Name of the class is required"
+
+#: src/atomic/organisms/Certificates.js:64
+msgid "New certificates:"
+msgstr "New certificates:"
+
+#: src/atomic/organisms/EditEducationEntries.js:70
+msgid "New education entries:"
+msgstr "New education entries:"
+
+#: src/atomic/organisms/WorkExperiences.js:70
+msgid "New work experiences:"
+msgstr "New work experiences:"
+
+#: src/atomic/molecules/Carousel.js:26
+msgid "Next slide"
+msgstr "Next slide"
+
+#: src/atomic/molecules/DeleteAccount.js:27
+msgid "Do you want to delete your account?"
+msgstr "Do you want to delete your account?"
+
+#: src/atomic/molecules/DeleteAccount.js:30
+msgid "Delete Account"
+msgstr "Delete Account"
+
+#: src/atomic/molecules/DeleteAccount.js:39
+msgid "By doing this, you will delete all data from your account, without going back"
+msgstr "By doing this, you will delete all data from your account, without going back"
+
+#: src/constants/hasDrivingLicence.js:6
+#: src/constants/jobOfferStates.js:6
+#: src/constants/mobilities.js:6
+#: src/constants/subjectOfferStates.js:6
+#: src/services/util/string.js:5
+msgid "No"
+msgstr "No"
+
+#: src/atomic/molecules/RegisterSuccessForm.js:25
+msgid "Now we just need you to confirm the e-mail we sent to"
+msgstr "Now we just need you to confirm the e-mail we sent to"
+
+#: src/atomic/organisms/CompanyProfileForm.js:81
+msgid "Number of Employess"
+msgstr "Number of Employess"
+
+#: src/containers/Company/Profile/Edit.js:119
+msgid "Number of employees is required"
+msgstr "Number of employees is required"
+
+#: src/containers/Company/Profile/Edit.js:118
+msgid "Number of employees must be positive"
+msgstr "Number of employees must be positive"
+
+#: src/atomic/organisms/SubjectForm.js:203
+msgid "Number of places"
+msgstr "Number of places"
+
+#: src/atomic/organisms/UniversityProfileForm.js:86
+msgid "Number of students"
+msgstr "Number of students"
+
+#: src/containers/University/Profile/Edit.js:104
+#~ msgid "Number of students is required"
+#~ msgstr "Number of students is required"
+
+#: src/atomic/organisms/SubjectForm.js:212
+msgid "Numerus Clausus (from 0.0 to 15.0)"
+msgstr "Numerus Clausus (from 0.0 to 15.0)"
+
+#: src/atomic/organisms/SubjectSearchForm.js:74
+msgid "Nummerus Clausus"
+msgstr "Nummerus Clausus"
+
+#: src/atomic/molecules/SubjectDetailsInfo.js:104
+msgid "Nummerus clausus: {0}"
+msgstr "Nummerus clausus: {0}"
+
+#: src/constants/mobilities.js:7
+msgid "OPNV"
+msgstr "OPNV"
+
+#: src/atomic/organisms/JobSearchResults.js:46
+#: src/atomic/organisms/SubjectSearchResults.js:46
+msgid "Order by"
+msgstr "Order by"
+
+#: src/constants/typesOfDegree.js:16
+msgid "PDEng"
+msgstr "PDEng"
+
+#: src/containers/Student/Profile/Edit/Certificates.js:98
+msgid "PDF is required"
+msgstr "PDF is required"
+
+#: src/constants/workExperienceTypes.js:24
+msgid "Part Time Job"
+msgstr "Part Time Job"
+
+#: src/containers/PasswordReset.js:37
+#: src/containers/Register.js:61
+msgid "Passord must have at least 6 characters"
+msgstr "Passord must have at least 6 characters"
+
+#: src/containers/PasswordReset.js:41
+#: src/containers/Register.js:65
+msgid "Password confirmation is required"
+msgstr "Password confirmation is required"
+
+#: src/containers/Login.js:118
+#: src/containers/PasswordReset.js:38
+#: src/containers/Register.js:62
+msgid "Password is required"
+msgstr "Password is required"
+
+#: src/atomic/molecules/PasswordResetForm.js:22
+msgid "Password reset"
+msgstr "Password reset"
+
+#: src/containers/PasswordReset.js:40
+#: src/containers/Register.js:64
+msgid "Passwords don't match"
+msgstr "Passwords don't match"
+
+#: src/atomic/organisms/JobForm.js:172
+#: src/atomic/organisms/SubjectForm.js:174
+msgid "Period"
+msgstr "Period"
+
+#: src/atomic/organisms/JobDetails.js:127
+#: src/atomic/organisms/JobForm.js:247
+#: src/atomic/organisms/SubjectDetails.js:120
+#: src/atomic/organisms/SubjectForm.js:251
+msgid "Perspectives"
+msgstr "Perspectives"
+
+#: src/containers/University/Subjects/Form.js:157
+msgid "Perspectives are required"
+msgstr "Perspectives are required"
+
+#: src/containers/Company/Jobs/Form/Form.js:158
+msgid "Perspectives is required"
+msgstr "Perspectives is required"
+
+#: src/constants/typesOfDegree.js:18
+msgid "PhD"
+msgstr "PhD"
+
+#: src/containers/Company/Jobs/Form/Form.js:168
+#: src/containers/Company/Jobs/Form/Form.js:173
+#: src/containers/Company/Jobs/Form/Form.js:176
+#: src/containers/University/Subjects/Form.js:162
+#: src/containers/University/Subjects/Form.js:167
+#: src/containers/University/Subjects/Form.js:170
+msgid "Pick up at least one"
+msgstr "Pick up at least one"
+
+#: src/containers/Company/Jobs/Form/Form.js:170
+#: src/containers/Company/Jobs/Form/Form.js:171
+#: src/containers/Company/Jobs/Form/Form.js:178
+#: src/containers/University/Subjects/Form.js:164
+#: src/containers/University/Subjects/Form.js:165
+#: src/containers/University/Subjects/Form.js:172
+msgid "Pick up five at most"
+msgstr "Pick up five at most"
+
+#: src/containers/Company/Jobs/Form/Form.js:169
+#: src/containers/Company/Jobs/Form/Form.js:174
+#: src/containers/Company/Jobs/Form/Form.js:177
+#: src/containers/University/Subjects/Form.js:163
+#: src/containers/University/Subjects/Form.js:168
+#: src/containers/University/Subjects/Form.js:171
+msgid "Pick up maximum five"
+msgstr "Pick up maximum five"
+
+#: src/atomic/molecules/VideoUploader.js:36
+msgid "Please upload only videos under 100mb."
+msgstr "Please upload only videos under 100mb."
+
+#: src/containers/Company/Profile/Edit.js:109
+#: src/containers/Student/Profile/Edit/Edit.js:84
+#: src/containers/University/Profile/Edit.js:123
+msgid "Postal Code is required"
+msgstr "Postal Code is required"
+
+#: src/atomic/molecules/JobDetailsHeading.js:27
+#: src/atomic/molecules/JobOffer.js:92
+#: src/atomic/molecules/SubjectDetailsHeading.js:27
+#: src/atomic/molecules/SubjectOffer.js:100
+msgid "Posted at {0}"
+msgstr "Posted at {0}"
+
+#: src/atomic/molecules/Carousel.js:19
+msgid "Previous slide"
+msgstr "Previous slide"
+
+#: src/atomic/atoms/Footer.js:18
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: src/constants/types_of_university.js:6
+msgid "Private"
+msgstr "Private"
+
+#: src/atomic/molecules/StudentProfileProfessional.js:16
+#: src/atomic/organisms/WorkExperiences.js:31
+msgid "Professional"
+msgstr "Professional"
+
+#: src/constants/profileTypes.js:22
+#: src/constants/profileTypes.js:80
+#: src/constants/profileTypes.js:121
+msgid "Profile"
+msgstr "Profile"
+
+#: src/containers/FacebookSignup.js:32
+#: src/containers/Login.js:114
+#: src/containers/Register.js:55
+msgid "Profile type is required"
+msgstr "Profile type is required"
+
+#: src/constants/types_of_university.js:5
+msgid "Public"
+msgstr "Public"
+
+#: src/atomic/organisms/JobForm.js:71
+#: src/atomic/organisms/JobListing.js:51
+#: src/atomic/organisms/SubjectForm.js:77
+#: src/atomic/organisms/SubjectListing.js:50
+msgid "Published"
+msgstr "Published"
+
+#: src/atomic/molecules/RegisterForm.js:92
+msgid "Register"
+msgstr "Register"
+
+#: src/atomic/molecules/EmailConfirmation.js:28
+msgid "Registration confirmed!"
+msgstr "Registration confirmed!"
+
+#: src/atomic/organisms/CompanyHuntResults.js:30
+#: src/atomic/organisms/JobSearchResults.js:32
+#: src/atomic/organisms/SubjectSearchResults.js:32
+msgid "Results"
+msgstr "Results"
+
+#: src/atomic/organisms/ChatMessages.js:36
+#: src/atomic/organisms/CompanyProfile.js:56
+#: src/atomic/organisms/JobDetails.js:59
+#: src/atomic/organisms/StudentProfile.js:77
+#: src/atomic/organisms/StudentPublicProfile.js:78
+#: src/atomic/organisms/SubjectDetails.js:62
+#: src/atomic/organisms/UniversityProfile.js:73
+msgid "Return"
+msgstr "Return"
+
+#: src/atomic/organisms/JobForm.js:100
+#: src/atomic/organisms/JobSearchForm.js:114
+msgid "Role"
+msgstr "Role"
+
+#: src/containers/Company/Jobs/Form/Form.js:117
+msgid "Role is required"
+msgstr "Role is required"
+
+#: src/atomic/organisms/CompanyProfileForm.js:236
+#: src/atomic/organisms/JobForm.js:280
+#: src/atomic/organisms/StudentProfileForm.js:367
+#: src/atomic/organisms/SubjectForm.js:292
+#: src/atomic/organisms/UniversityProfileForm.js:231
+msgid "Save"
+msgstr "Save"
+
+#: src/atomic/organisms/CompanyProfileForm.js:50
+#: src/atomic/organisms/JobForm.js:55
+#: src/atomic/organisms/StudentProfileForm.js:72
+#: src/atomic/organisms/SubjectForm.js:61
+msgid "Save and Return"
+msgstr "Save and Return"
+
+#: src/atomic/organisms/UniversityProfileForm.js:52
+msgid "Save and return"
+msgstr "Save and return"
+
+#: src/atomic/organisms/NewEducationEntry.js:58
+msgid "School Name"
+msgstr "School Name"
+
+#: src/containers/Student/Profile/Edit/EducationEntries.js:33
+msgid "School name is required"
+msgstr "School name is required"
+
+#: src/atomic/organisms/StudentSearch.js:29
+#: src/constants/profileTypes.js:28
+msgid "Search"
+msgstr "Search"
+
+#: src/atomic/organisms/CompanyHuntResults.js:69
+msgid "Search a keyword or filter to <0/> find your next candidate"
+msgstr "Search a keyword or filter to <0/> find your next candidate"
+
+#: src/atomic/organisms/JobSearchForm.js:36
+msgid "Search by company name, job title, country and city..."
+msgstr "Search by company name, job title, country and city..."
+
+#: src/atomic/organisms/CompanyHuntForm.js:48
+msgid "Search by name, skill, country, city and graduation..."
+msgstr "Search by name, skill, country, city and graduation..."
+
+#: src/atomic/organisms/SubjectSearchForm.js:39
+msgid "Search by university name, subject title, country and city..."
+msgstr "Search by university name, subject title, country and city..."
+
+#: src/atomic/atoms/Footer.js:21
+msgid "Security"
+msgstr "Security"
+
+#: src/constants/typesOfDegree.js:26
+msgid "Seminar"
+msgstr "Seminar"
+
+#: src/constants/typesOfDegree.js:26
+msgid "Dual Study"
+msgstr "Duales Studium"
+
+#: src/atomic/molecules/ChatInput.js:27
+msgid "Send message"
+msgstr "Send message"
+
+#: src/containers/Student/Profile/Edit/Certificates.js:103
+msgid "Should be a PDF file"
+msgstr "Should be a PDF file"
+
+#: src/atomic/molecules/LoginForm.js:70
+msgid "Sign up for a new C2SU account"
+msgstr "Sign up for a new C2SU account"
+
+#: src/atomic/molecules/StudentProfileQualities.js:10
+#: src/atomic/organisms/CompanyHuntForm.js:153
+#: src/atomic/organisms/JobDetails.js:97
+#: src/atomic/organisms/QualitiesForm.js:18
+#: src/atomic/organisms/SubjectDetails.js:100
+msgid "Skills"
+msgstr "Skills"
+
+#: src/atomic/organisms/CompanyProfileForm.js:118
+#: src/constants/profileTypes.js:93
+msgid "Special Features"
+msgstr "Special Features"
+
+#: src/atomic/organisms/UniversityProfileForm.js:121
+#: src/constants/profileTypes.js:134
+msgid "Special features & Partners of the university"
+msgstr "Special features & Partners of the university"
+
+#: src/containers/University/Profile/Edit.js:114
+msgid "Special features is required"
+msgstr "Special features is required"
+
+#: src/atomic/organisms/StudentProfileForm.js:94
+msgid "Speciality"
+msgstr "Speciality"
+
+#: src/atomic/organisms/FacebookSignup.js:55
+msgid "Start now with Facebook"
+msgstr "Start now with Facebook"
+
+#: src/atomic/organisms/SubjectSearchForm.js:82
+#~ msgid "Starting Date"
+#~ msgstr "Starting Date"
+
+#: src/atomic/organisms/JobSearchForm.js:91
+#~ msgid "Starting Date (dd/mm/yyyy)"
+#~ msgstr "Starting Date (dd/mm/yyyy)"
+
+#: src/atomic/organisms/JobSearchForm.js:91
+msgid "Starting Date (mm/dd/yyyy)"
+msgstr "Starting Date (mm/dd/yyyy)"
+
+#: src/atomic/organisms/SubjectForm.js:154
+msgid "Starting date"
+msgstr "Starting date"
+
+#: src/atomic/organisms/JobForm.js:148
+#: src/atomic/organisms/SubjectSearchForm.js:83
+#~ msgid "Starting date (dd/mm/yyyy)"
+#~ msgstr "Starting date (dd/mm/yyyy)"
+
+#: src/atomic/organisms/JobForm.js:148
+#: src/atomic/organisms/SubjectSearchForm.js:83
+msgid "Starting date (mm/dd/yyyy)"
+msgstr "Starting date (mm/dd/yyyy)"
+
+#: src/containers/Company/Jobs/Form/Form.js:137
+#: src/containers/University/Subjects/Form.js:135
+msgid "Starting date is required"
+msgstr "Starting date is required"
+
+#: src/containers/University/Subjects/Form.js:107
+msgid "State is required"
+msgstr "State is required"
+
+#: src/containers/Student/Profile/Edit/Edit.js:87
+msgid "Street is required"
+msgstr "Street is required"
+
+#: src/atomic/organisms/SubjectDetails.js:112
+msgid "Strenghts"
+msgstr "Strenghts"
+
+#: src/atomic/molecules/StudentProfileQualities.js:16
+#: src/atomic/organisms/CompanyHuntForm.js:177
+#: src/atomic/organisms/JobDetails.js:109
+#: src/atomic/organisms/QualitiesForm.js:34
+#: src/atomic/organisms/StudentProfileForm.js:282
+msgid "Strengths"
+msgstr "Strengths"
+
+#: src/constants/profileTypes.js:13
+msgid "Student"
+msgstr "Student"
+
+#: src/constants/jobOfferCategories.js:9
+msgid "Student Employee"
+msgstr "Student Employee"
+
+#: src/atomic/organisms/CompanyHunt.js:26
+msgid "Student Hunting"
+msgstr "Student Hunting"
+
+#: src/atomic/organisms/SubjectDetails.js:67
+#: src/atomic/organisms/SubjectForm.js:70
+msgid "Subject Offers"
+msgstr "Subject Offers"
+
+#: src/atomic/organisms/UniversityProfileForm.js:113
+#: src/constants/profileTypes.js:132
+msgid "Subject areas"
+msgstr "Subject areas"
+
+#: src/containers/University/Profile/Edit.js:111
+msgid "Subject areas is required"
+msgstr "Subject areas is required"
+
+#: src/atomic/organisms/StudentLikes.js:43
+#: src/constants/profileTypes.js:108
+msgid "Subjects"
+msgstr "Subjects"
+
+#: src/atomic/molecules/RegistrationSuccess.js:8
+msgid "Successfull registration! We sent you a confirmation email."
+msgstr "Successfull registration! We sent you a confirmation email."
+
+#: src/atomic/organisms/JobDetails.js:125
+#: src/atomic/organisms/JobForm.js:239
+#: src/atomic/organisms/NewWorkExperience.js:100
+msgid "Tasks"
+msgstr "Tasks"
+
+#: src/containers/Company/Jobs/Form/Form.js:162
+msgid "Tasks is required"
+msgstr "Tasks is required"
+
+#: src/atomic/atoms/Footer.js:15
+msgid "Terms & Conditions"
+msgstr "Terms & Conditions"
+
+#: src/atomic/molecules/RegisterForm.js:108
+#: src/atomic/organisms/FacebookSignup.js:69
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
+
+#: src/atomic/organisms/SubjectDetails.js:122
+#: src/atomic/organisms/SubjectForm.js:259
+msgid "Tests"
+msgstr "Tests"
+
+#: src/containers/University/Subjects/Form.js:160
+msgid "Tests are required"
+msgstr "Tests are required"
+
+#: src/atomic/atoms/Footer.js:29
+msgid "The contents were researched with great care. Nevertheless, C2SU accepts no liability for the accuracy, completeness and timeliness of the information provided. In particular, the information is also of a general nature and does not constitute legal advice in individual cases. For solving specific legal cases, in particular within the framework of the GDPR, you must consult a lawyer. Download European Data Protection Regulation as PDF"
+msgstr "The contents were researched with great care. Nevertheless, C2SU accepts no liability for the accuracy, completeness and timeliness of the information provided. In particular, the information is also of a general nature and does not constitute legal advice in individual cases. For solving specific legal cases, in particular within the framework of the GDPR, you must consult a lawyer. Download European Data Protection Regulation as PDF"
+
+#: src/atomic/molecules/TrashMessageModal.js:35
+msgid "The match will be undone and your conversations will be removed."
+msgstr "The match will be undone and your conversations will be removed."
+
+#: src/atomic/organisms/Certificates.js:89
+msgid "Title"
+msgstr "Title"
+
+#: src/containers/Student/Profile/Edit/Certificates.js:93
+msgid "Title is required"
+msgstr "Title is required"
+
+#: src/atomic/organisms/NewEducationEntry.js:51
+#~ msgid "To"
+#~ msgstr "To"
+
+#: src/atomic/organisms/NewWorkExperience.js:49
+#~ msgid "To (blank for ongoing)"
+#~ msgstr "To (blank for ongoing)"
+
+#: src/atomic/organisms/NewEducationEntry.js:48
+#: src/atomic/organisms/NewWorkExperience.js:49
+#~ msgid "To (dd/mm/yyyy)"
+#~ msgstr "To (dd/mm/yyyy)"
+
+#: src/atomic/organisms/NewEducationEntry.js:48
+#: src/atomic/organisms/NewWorkExperience.js:49
+msgid "To (mm/dd/yyyy)"
+msgstr "To (mm/dd/yyyy)"
+
+#: src/containers/Student/Profile/Edit/EducationEntries.js:33
+#~ msgid "To is required"
+#~ msgstr "To is required"
+
+#: src/constants/subjectCostPeriods.js:8
+msgid "Total"
+msgstr "Total"
+
+#: src/constants/jobOfferCategories.js:6
+#: src/constants/workExperienceTypes.js:16
+msgid "Trainee"
+msgstr "Trainee"
+
+#: src/atomic/organisms/NewWorkExperience.js:61
+msgid "Type"
+msgstr "Type"
+
+#: src/atomic/molecules/GeocodedAddress.js:19
+msgid "Type a zip code to search"
+msgstr "Type a zip code to search"
+
+#: src/containers/Student/Profile/Edit/WorkExperiences.js:35
+msgid "Type is required"
+msgstr "Type is required"
+
+#: src/atomic/organisms/UniversityProfileForm.js:76
+msgid "Type of University"
+msgstr "Type of University"
+
+#: src/containers/University/Profile/Edit.js:101
+msgid "Type of University is required"
+msgstr "Type of University is required"
+
+#: src/atomic/organisms/SubjectForm.js:106
+#: src/atomic/organisms/SubjectSearchForm.js:114
+msgid "Type of degree"
+msgstr "Type of degree"
+
+#: src/containers/University/Subjects/Form.js:115
+msgid "Type of degree is required"
+msgstr "Type of degree is required"
+
+#: src/constants/profileTypes.js:100
+msgid "University"
+msgstr "University"
+
+#: src/atomic/organisms/JobListing.js:57
+#: src/atomic/organisms/SubjectListing.js:56
+msgid "Unpublished"
+msgstr "Unpublished"
+
+#: src/atomic/organisms/NewEducationEntry.js:112
+#: src/atomic/organisms/NewWorkExperience.js:114
+msgid "Update"
+msgstr "Update"
+
+#: src/atomic/organisms/Certificates.js:101
+msgid "Upload a Certificate"
+msgstr "Upload a Certificate"
+
+#: src/atomic/organisms/JobForm.js:182
+#: src/atomic/organisms/SubjectForm.js:183
+msgid "Value (EUR)"
+msgstr "Value (EUR)"
+
+#: src/services/attachments/index.js:38
+msgid "Video"
+msgstr "Video"
+
+#: src/atomic/molecules/VideoUploader.js:73
+msgid "Video Upload"
+msgstr "Video Upload"
+
+#: src/atomic/organisms/JobForm.js:165
+msgid "Wage"
+msgstr "Wage"
+
+#: src/atomic/organisms/JobSearchForm.js:52
+msgid "Wage from"
+msgstr "Wage from"
+
+#: src/containers/Company/Jobs/Form/Form.js:143
+msgid "Wage must be positive"
+msgstr "Wage must be positive"
+
+#: src/atomic/organisms/JobSearchForm.js:62
+msgid "Wage to"
+msgstr "Wage to"
+
+#: src/atomic/molecules/StudentProfileDetails.js:41
+msgid "Was born at {dateOfBirth,date} - {0} years"
+msgstr "Was born at {dateOfBirth,date} - {0} years"
+
+#: src/atomic/molecules/StudentProfileDetails.js:39
+#~ msgid "Was born at {dateOfBirth} - {0} years"
+#~ msgstr "Was born at {dateOfBirth} - {0} years"
+
+#: src/atomic/organisms/UniversityProfileForm.js:97
+#: src/constants/profileTypes.js:127
+msgid "We are"
+msgstr "We are"
+
+#: src/atomic/molecules/EmailConfirmation.js:41
+msgid "We are confirming your registration..."
+msgstr "We are confirming your registration..."
+
+#: src/containers/University/Profile/Edit.js:105
+msgid "We are is required"
+msgstr "We are is required"
+
+#: src/containers/ForgotPassword.js:45
+msgid "We just sent you one email with the link to change your password"
+msgstr "We just sent you one email with the link to change your password"
+
+#: src/atomic/organisms/CompanyProfileForm.js:173
+#: src/atomic/organisms/UniversityProfileForm.js:176
+msgid "Website"
+msgstr "Website"
+
+#: src/constants/subjectCostPeriods.js:6
+#: src/constants/wagePeriods.js:6
+msgid "Week"
+msgstr "Week"
+
+#: src/atomic/molecules/WelcomeModal.js:12
+msgid "Welcome to Click To Success!"
+msgstr "Welcome to Click To Success!"
+
+#: src/atomic/organisms/JobDetails.js:116
+#: src/atomic/organisms/JobForm.js:223
+msgid "What is expected from us"
+msgstr "What is expected from us"
+
+#: src/containers/Company/Jobs/Form/Form.js:150
+msgid "What is expected from us is required"
+msgstr "What is expected from us is required"
+
+#: src/atomic/organisms/JobDetails.js:121
+#: src/atomic/organisms/JobForm.js:231
+msgid "What is expected from you"
+msgstr "What is expected from you"
+
+#: src/containers/Company/Jobs/Form/Form.js:154
+msgid "What is expected from you is required"
+msgstr "What is expected from you is required"
+
+#: src/atomic/organisms/CompanyProfileForm.js:94
+#: src/constants/profileTypes.js:86
+msgid "What we do"
+msgstr "What we do"
+
+#: src/containers/Company/Profile/Edit.js:122
+msgid "What we do is required"
+msgstr "What we do is required"
+
+#: src/atomic/organisms/CompanyProfileForm.js:110
+msgid "Why should you join"
+msgstr "Why should you join"
+
+#: src/atomic/organisms/UniversityProfileForm.js:105
+msgid "Why should you study here"
+msgstr "Why should you study here"
+
+#: src/containers/University/Profile/Edit.js:108
+msgid "Why should you study here is required"
+msgstr "Why should you study here is required"
+
+#: src/atomic/organisms/CompanyProfileForm.js:102
+#: src/constants/profileTypes.js:87
+msgid "Why we do it"
+msgstr "Why we do it"
+
+#: src/containers/Company/Profile/Edit.js:125
+msgid "Why we do it is required"
+msgstr "Why we do it is required"
+
+#: src/constants/profileTypes.js:89
+msgid "Why you should join"
+msgstr "Why you should join"
+
+#: src/containers/Company/Profile/Edit.js:128
+msgid "Why you should join is required"
+msgstr "Why you should join is required"
+
+#: src/constants/profileTypes.js:129
+msgid "Why you should study here"
+msgstr "Why you should study here"
+
+#: src/atomic/organisms/JobForm.js:192
+msgid "Working hours per week"
+msgstr "Working hours per week"
+
+#: src/atomic/organisms/JobSearchForm.js:71
+msgid "Working hours per week from"
+msgstr "Working hours per week from"
+
+#: src/atomic/organisms/JobSearchForm.js:80
+msgid "Working hours per week to"
+msgstr "Working hours per week to"
+
+#: src/atomic/molecules/ChatInput.js:17
+msgid "Write your message"
+msgstr "Write your message"
+
+#: src/constants/genders.js:7
+msgid "X"
+msgstr "X"
+
+#: src/constants/hasDrivingLicence.js:5
+#: src/constants/jobOfferStates.js:5
+#: src/constants/mobilities.js:5
+#: src/constants/subjectOfferStates.js:5
+#: src/containers/Company/Jobs/List.js:104
+#: src/containers/University/Subjects/List.js:109
+#: src/services/util/string.js:5
+msgid "Yes"
+msgstr "Yes"
+
+#: src/containers/Company/Jobs/Form/Form.js:289
+#: src/containers/Company/Profile/Edit.js:170
+#: src/containers/Student/Profile/Edit/Edit.js:235
+#: src/containers/University/Profile/Edit.js:168
+#: src/containers/University/Subjects/Form.js:282
+msgid "You are leaving the page without saving and will lose all changed data."
+msgstr "You are leaving the page without saving and will lose all changed data."
+
+#: src/atomic/molecules/RegisterForm.js:47
+#: src/atomic/organisms/FacebookSignup.js:44
+msgid "You are:"
+msgstr "You are:"
+
+#: src/atomic/molecules/MatchMessageModal.js:17
+msgid "You have a new match!"
+msgstr "You have a new match!"
+
+#: src/atomic/organisms/Chat.js:38
+msgid "You have no messages! <0/>Connect with a professional <1/> to start to chat."
+msgstr "You have no messages! <0/>Connect with a professional <1/> to start to chat."
+
+#: src/atomic/molecules/MatchMessageModal.js:20
+msgid "You hunted a student who have already liked one of your job offers, and now you can chat to each other."
+msgstr "You hunted a student who have already liked one of your job offers, and now you can chat to each other."
+
+#: src/atomic/molecules/MatchMessageModal.js:29
+msgid "You liked a job from a company which already liked you too, and now you can chat to each other."
+msgstr "You liked a job from a company which already liked you too, and now you can chat to each other."
+
+#: src/containers/PasswordReset.js:65
+msgid "Your password was updated"
+msgstr "Your password was updated"
+
+#: src/containers/Company/Jobs/Form/Form.js:133
+#: src/containers/University/Subjects/Form.js:131
+msgid "Zip Code is required"
+msgstr "Zip Code is required"
+
+#: src/atomic/organisms/CompanyProfileForm.js:152
+#: src/atomic/organisms/JobForm.js:129
+#: src/atomic/organisms/StudentProfileForm.js:172
+#: src/atomic/organisms/SubjectForm.js:135
+#: src/atomic/organisms/UniversityProfileForm.js:155
+msgid "Zip code"
+msgstr "Zip code"
+
+#: src/atomic/organisms/EditEducationEntries.js:63
+msgid "add your educational history"
+msgstr "add your educational history"
+
+#: src/atomic/organisms/WorkExperiences.js:63
+msgid "add your work experiences"
+msgstr "add your work experiences"
+
+#: src/atomic/molecules/PasswordResetForm.js:40
+#: src/atomic/molecules/RegisterForm.js:85
+msgid "confirm password"
+msgstr "confirm password"
+
+#: src/atomic/molecules/JobDetailsInfo.js:34
+#~ msgid "details"
+#~ msgstr "details"
+
+#: src/atomic/molecules/RegisterForm.js:67
+msgid "email"
+msgstr "email"
+
+#: src/containers/Login.js:98
+#~ msgid "invalid credentials"
+#~ msgstr "Invalid credentials"
+
+#: src/atomic/molecules/RegisterForm.js:59
+msgid "name"
+msgstr "name"
+
+#: src/atomic/molecules/StudentProfileCertificates.js:24
+msgid "no certificates"
+msgstr "no certificates"
+
+#: src/atomic/molecules/StudentProfileEducational.js:52
+msgid "no educational entries"
+msgstr "no educational entries"
+
+#: src/atomic/organisms/StudentSubjectLikes.js:37
+msgid "no liked subjects yet"
+msgstr "no liked subjects yet"
+
+#: src/atomic/organisms/CompanyLikedFrom.js:44
+msgid "no one liked you yet"
+msgstr "no one liked you yet"
+
+#: src/atomic/organisms/UniversityLikedFrom.js:40
+msgid "no one liked your subjects yet"
+msgstr "no one liked your subjects yet"
+
+#: src/atomic/molecules/StudentProfileProfessional.js:52
+msgid "no professional entries"
+msgstr "no professional entries"
+
+#: src/atomic/molecules/QualitiesList.js:28
+msgid "none"
+msgstr "none"
+
+#: src/atomic/molecules/JobDetailsInfo.js:77
+#: src/atomic/molecules/JobOffer.js:85
+#: src/atomic/molecules/SubjectDetailsInfo.js:81
+#: src/atomic/molecules/SubjectOffer.js:89
+msgid "not informed"
+msgstr "not informed"
+
+#: src/atomic/molecules/StudentProfileEducational.js:35
+#: src/atomic/molecules/StudentProfileProfessional.js:38
+#: src/atomic/organisms/EducationEntry.js:17
+#: src/atomic/organisms/WorkExperience.js:23
+msgid "ongoing"
+msgstr "ongoing"
+
+#: src/atomic/molecules/PasswordResetForm.js:30
+#: src/atomic/molecules/RegisterForm.js:76
+msgid "password"
+msgstr "password"
+
+#: src/atomic/organisms/Certificates.js:57
+msgid "pick up max 5 certificates"
+msgstr "pick up max 5 certificates"
+
+#: src/atomic/molecules/UniversityProfileMainDetails.js:17
+msgid "students"
+msgstr "students"
+
+#: src/atomic/molecules/UniversityProfileMainDetails.js:18
+msgid "subjects"
+msgstr "subjects"
+
+#: src/atomic/organisms/CompanyHuntResults.js:55
+msgid "there are no students who match your current search"
+msgstr "there are no students who match your current search"
+
+#: src/atomic/organisms/JobSearchResults.js:76
+msgid "there's no job offers that match your current search"
+msgstr "there's no job offers that match your current search"
+
+#: src/atomic/organisms/SubjectSearchResults.js:78
+msgid "there's no subject offers that match your current search"
+msgstr "there's no subject offers that match your current search"
+
+#: src/atomic/molecules/JobDetailsInfo.js:67
+msgid "to {0}"
+msgstr "to {0}"
+
+#: src/atomic/organisms/JobListing.js:83
+msgid "you don't have any published Job Offer yet"
+msgstr "you don't have any published Job Offer yet"
+
+#: src/atomic/organisms/SubjectListing.js:84
+msgid "you don't have any published Subject Offer yet"
+msgstr "you don't have any published Subject Offer yet"
+
+#: src/atomic/organisms/JobListing.js:84
+msgid "you don't have any unpublished Job Offer yet"
+msgstr "you don't have any unpublished Job Offer yet"
+
+#: src/atomic/organisms/SubjectListing.js:85
+msgid "you don't have any unpublished Subject Offer yet"
+msgstr "you don't have any unpublished Subject Offer yet"
+
+#: src/atomic/organisms/StudentHunted.js:42
+msgid "you haven't been hunted by any company yet"
+msgstr "you haven't been hunted by any company yet"
+
+#: src/atomic/organisms/CompanyHunted.js:41
+msgid "you haven't hunted anyone yet"
+msgstr "you haven't hunted anyone yet"
+
+#: src/atomic/molecules/CompanyCard.js:82
+msgid "{0, plural, one {# job} other {# jobs}}"
+msgstr "{0, plural, one {# job} other {# jobs}}"
+
+#: src/atomic/organisms/CompanyLikedFrom.js:55
+msgid "{0, plural, one {Applied in # position} other {Applied in # positions}}"
+msgstr "{0, plural, one {Applied in # position} other {Applied in # positions}}"
+
+#: src/atomic/organisms/EducationEntry.js:16
+#: src/atomic/organisms/EducationEntry.js:17
+#: src/atomic/organisms/WorkExperience.js:19
+#: src/atomic/organisms/WorkExperience.js:21
+msgid "{0,date}"
+msgstr "{0,date}"
+
+#: src/atomic/molecules/JobDetailsInfo.js:47
+#: src/atomic/molecules/SubjectDetailsInfo.js:50
+msgid "{0} at"
+msgstr "{0} at"
+
+#: src/atomic/organisms/WorkExperience.js:28
+msgid "{0} at {1}"
+msgstr "{0} at {1}"
+
+#: src/atomic/molecules/StudentProfileProfessional.js:41
+msgid "{0} at {company_name}"
+msgstr "{0} at {company_name}"
+
+#: src/atomic/molecules/JobOffer.js:60
+#~ msgid "{0} away"
+#~ msgstr "{0} away"
+
+#: src/atomic/molecules/OfferMatchPercentage.js:9
+msgid "{0} match"
+msgstr "{0} match"
+
+#: src/atomic/molecules/StudentCard.js:65
+msgid "{age} years old"
+msgstr "{age} years old"
+
+#: src/atomic/molecules/CompanyCard.js:73
+#: src/atomic/molecules/JobDetailsHeading.js:27
+#: src/atomic/molecules/SubjectDetailsHeading.js:27
+msgid "{createdAt,date}"
+msgstr "{createdAt,date}"
+
+#: src/atomic/molecules/JobOffer.js:92
+#: src/atomic/molecules/SubjectOffer.js:100
+msgid "{created_at,date}"
+msgstr "{created_at,date}"
+
+#: src/atomic/molecules/JobDetailsInfo.js:67
+msgid "{endDate,date}"
+msgstr "{endDate,date}"
+
+#: src/atomic/molecules/JobDetailsHeading.js:30
+msgid "{freePlaces} spots available"
+msgstr "{freePlaces} spots available"
+
+#: src/atomic/molecules/StudentProfileEducational.js:34
+#: src/atomic/molecules/StudentProfileProfessional.js:37
+msgid "{from,date}"
+msgstr "{from,date}"
+
+#: src/atomic/molecules/StudentCard.js:58
+msgid "{grade_point_average} average grade"
+msgstr "{grade_point_average} average grade"
+
+#: src/atomic/molecules/SubjectDetailsInfo.js:90
+msgid "{hoursOfClassesPerWeek}h per week"
+msgstr "{hoursOfClassesPerWeek}h per week"
+
+#: src/atomic/molecules/CompanyProfileMainDetails.js:19
+msgid "{jobsCount, plural, one {# job} other {# jobs}}"
+msgstr "{jobsCount, plural, one {# job} other {# jobs}}"
+
+#: src/atomic/molecules/CompanyProfileMainDetails.js:15
+msgid "{numberOfEmployees, plural, one {# Employee} other {# Employees}}"
+msgstr "{numberOfEmployees, plural, one {# Employee} other {# Employees}}"
+
+#: src/atomic/molecules/SubjectDetailsHeading.js:30
+msgid "{numberOfPlaces} free places"
+msgstr "{numberOfPlaces} free places"
+
+#: src/atomic/molecules/UniversityProfileMainDetails.js:15
+#~ msgid "{numberOfStudents} students - {numberOfSubjects} subjects"
+#~ msgstr "{numberOfStudents} students - {numberOfSubjects} subjects"
+
+#: src/atomic/molecules/CompanyCard.js:64
+msgid "{number_of_employees, plural, one {# Employee} other {# Employees}}"
+msgstr "{number_of_employees, plural, one {# Employee} other {# Employees}}"
+
+#: src/atomic/molecules/JobDetailsInfo.js:66
+msgid "{start,date}"
+msgstr "{start,date}"
+
+#: src/atomic/molecules/SubjectDetailsInfo.js:70
+msgid "{startDate,date}"
+msgstr "{startDate,date}"
+
+#: src/atomic/molecules/SubjectOffer.js:76
+msgid "{start_date,date}"
+msgstr "{start_date,date}"
+
+#: src/atomic/molecules/ChatBubble.js:10
+msgid "{time,date}"
+msgstr "{time,date}"
+
+#: src/atomic/molecules/StudentProfileEducational.js:35
+#: src/atomic/molecules/StudentProfileProfessional.js:38
+msgid "{to,date}"
+msgstr "{to,date}"
+
+#: src/atomic/molecules/ProfileJobsHeader.js:18
+msgid "{totalItemsCount, plural, one {# Job Offer found} other {# Job Offers found}}"
+msgstr "{totalItemsCount, plural, one {# Job Offer found} other {# Job Offers found}}"
+
+#: src/atomic/molecules/ProfileSubjectHeader.js:18
+msgid "{totalItemsCount, plural, one {# Subject Offer found} other {# Subject Offers found}}"
+msgstr "{totalItemsCount, plural, one {# Subject Offer found} other {# Subject Offers found}}"
+
+#: src/atomic/organisms/CompanyHuntResults.js:33
+#: src/atomic/organisms/JobSearchResults.js:36
+#: src/atomic/organisms/SubjectSearchResults.js:36
+msgid "{totalItemsCount} found"
+msgstr "{totalItemsCount} found"
+
+#: src/atomic/molecules/JobDetailsInfo.js:86
+msgid "{workingHoursPerWeek} per week"
+msgstr "{workingHoursPerWeek} per week"
+
+#: src/atomic/molecules/JobOffer.js:74
+msgid "{working_hours_per_week}h per week"
+msgstr "{working_hours_per_week}h per week"
+
+#: src/atomic/atoms/Footer.js:40
+msgid "© C2SU | All right reserved"
+msgstr "© C2SU | All right reserved"
+
+#: src/atomic/molecules/JobOffer.js:65
+#: src/atomic/molecules/StudentCard.js:50
+#: src/atomic/molecules/SubjectOffer.js:69
+msgid "• {0} away"
+msgstr "• {0} away"
+
+#: src/atomic/molecules/SubjectOffer.js:78
+msgid "• {number_of_places} free places"
+msgstr "• {number_of_places} free places"

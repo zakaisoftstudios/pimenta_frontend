@@ -1,0 +1,18 @@
+{
+  "Are you sure you want to remove this Subject Offer?": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/List.js",
+        103
+      ]
+    ]
+  },
+  "Yes": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/List.js",
+        109
+      ]
+    ]
+  }
+}

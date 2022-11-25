@@ -1,0 +1,18 @@
+{
+  "students": {
+    "origin": [
+      [
+        "src/atomic/molecules/UniversityProfileMainDetails.js",
+        17
+      ]
+    ]
+  },
+  "subjects": {
+    "origin": [
+      [
+        "src/atomic/molecules/UniversityProfileMainDetails.js",
+        18
+      ]
+    ]
+  }
+}

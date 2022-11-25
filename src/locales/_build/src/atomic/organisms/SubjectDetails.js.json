@@ -1,0 +1,66 @@
+{
+  "Return": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectDetails.js",
+        62
+      ]
+    ]
+  },
+  "Subject Offers": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectDetails.js",
+        67
+      ]
+    ]
+  },
+  "Skills": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectDetails.js",
+        100
+      ]
+    ]
+  },
+  "Interests": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectDetails.js",
+        106
+      ]
+    ]
+  },
+  "Strenghts": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectDetails.js",
+        112
+      ]
+    ]
+  },
+  "Content": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectDetails.js",
+        118
+      ]
+    ]
+  },
+  "Perspectives": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectDetails.js",
+        120
+      ]
+    ]
+  },
+  "Tests": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectDetails.js",
+        122
+      ]
+    ]
+  }
+}

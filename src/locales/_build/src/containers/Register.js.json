@@ -1,0 +1,66 @@
+{
+  "Profile type is required": {
+    "origin": [
+      [
+        "src/containers/Register.js",
+        55
+      ]
+    ]
+  },
+  "Name is required": {
+    "origin": [
+      [
+        "src/containers/Register.js",
+        56
+      ]
+    ]
+  },
+  "Invalid email address": {
+    "origin": [
+      [
+        "src/containers/Register.js",
+        58
+      ]
+    ]
+  },
+  "Email is required": {
+    "origin": [
+      [
+        "src/containers/Register.js",
+        59
+      ]
+    ]
+  },
+  "Passord must have at least 6 characters": {
+    "origin": [
+      [
+        "src/containers/Register.js",
+        61
+      ]
+    ]
+  },
+  "Password is required": {
+    "origin": [
+      [
+        "src/containers/Register.js",
+        62
+      ]
+    ]
+  },
+  "Passwords don't match": {
+    "origin": [
+      [
+        "src/containers/Register.js",
+        64
+      ]
+    ]
+  },
+  "Password confirmation is required": {
+    "origin": [
+      [
+        "src/containers/Register.js",
+        65
+      ]
+    ]
+  }
+}

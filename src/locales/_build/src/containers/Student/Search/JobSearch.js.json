@@ -1,0 +1,42 @@
+{
+  "Min 1": {
+    "origin": [
+      [
+        "src/containers/Student/Search/JobSearch.js",
+        69
+      ],
+      [
+        "src/containers/Student/Search/JobSearch.js",
+        73
+      ],
+      [
+        "src/containers/Student/Search/JobSearch.js",
+        77
+      ],
+      [
+        "src/containers/Student/Search/JobSearch.js",
+        80
+      ]
+    ]
+  },
+  "Max 50": {
+    "origin": [
+      [
+        "src/containers/Student/Search/JobSearch.js",
+        70
+      ],
+      [
+        "src/containers/Student/Search/JobSearch.js",
+        74
+      ]
+    ]
+  },
+  "Invalid date. Format as mm/dd/yyyy.": {
+    "origin": [
+      [
+        "src/containers/Student/Search/JobSearch.js",
+        83
+      ]
+    ]
+  }
+}

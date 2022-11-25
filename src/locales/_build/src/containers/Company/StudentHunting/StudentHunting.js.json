@@ -1,0 +1,18 @@
+{
+  "Max grade of 100": {
+    "origin": [
+      [
+        "src/containers/Company/StudentHunting/StudentHunting.js",
+        68
+      ]
+    ]
+  },
+  "Min grade of 1": {
+    "origin": [
+      [
+        "src/containers/Company/StudentHunting/StudentHunting.js",
+        69
+      ]
+    ]
+  }
+}

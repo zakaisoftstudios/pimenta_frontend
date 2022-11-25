@@ -1,0 +1,58 @@
+{
+  "Professional": {
+    "origin": [
+      [
+        "src/atomic/organisms/WorkExperiences.js",
+        31
+      ]
+    ]
+  },
+  "EDIT": {
+    "origin": [
+      [
+        "src/atomic/organisms/WorkExperiences.js",
+        44
+      ],
+      [
+        "src/atomic/organisms/WorkExperiences.js",
+        81
+      ]
+    ]
+  },
+  "DELETE": {
+    "origin": [
+      [
+        "src/atomic/organisms/WorkExperiences.js",
+        53
+      ],
+      [
+        "src/atomic/organisms/WorkExperiences.js",
+        90
+      ]
+    ]
+  },
+  "add your work experiences": {
+    "origin": [
+      [
+        "src/atomic/organisms/WorkExperiences.js",
+        63
+      ]
+    ]
+  },
+  "New work experiences:": {
+    "origin": [
+      [
+        "src/atomic/organisms/WorkExperiences.js",
+        70
+      ]
+    ]
+  },
+  "Add": {
+    "origin": [
+      [
+        "src/atomic/organisms/WorkExperiences.js",
+        110
+      ]
+    ]
+  }
+}

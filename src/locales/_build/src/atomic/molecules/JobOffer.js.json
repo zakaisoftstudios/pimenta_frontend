@@ -1,0 +1,42 @@
+{
+  "• {0} away": {
+    "origin": [
+      [
+        "src/atomic/molecules/JobOffer.js",
+        65
+      ]
+    ]
+  },
+  "{working_hours_per_week}h per week": {
+    "origin": [
+      [
+        "src/atomic/molecules/JobOffer.js",
+        74
+      ]
+    ]
+  },
+  "not informed": {
+    "origin": [
+      [
+        "src/atomic/molecules/JobOffer.js",
+        85
+      ]
+    ]
+  },
+  "Posted at {0}": {
+    "origin": [
+      [
+        "src/atomic/molecules/JobOffer.js",
+        92
+      ]
+    ]
+  },
+  "{created_at,date}": {
+    "origin": [
+      [
+        "src/atomic/molecules/JobOffer.js",
+        92
+      ]
+    ]
+  }
+}

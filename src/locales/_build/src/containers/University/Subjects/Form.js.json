@@ -1,0 +1,210 @@
+{
+  "State is required": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        107
+      ]
+    ]
+  },
+  "Name of the class is required": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        111
+      ]
+    ]
+  },
+  "Type of degree is required": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        115
+      ]
+    ]
+  },
+  "City is required": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        119
+      ]
+    ]
+  },
+  "Country is required": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        123
+      ]
+    ]
+  },
+  "Address (street and number) is required": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        127
+      ]
+    ]
+  },
+  "Zip Code is required": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        131
+      ]
+    ]
+  },
+  "Invalid date. Format as mm/dd/yyyy.": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        134
+      ]
+    ]
+  },
+  "Starting date is required": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        135
+      ]
+    ]
+  },
+  "Duration is required": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        138
+      ]
+    ]
+  },
+  "Min 1 place": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        142
+      ]
+    ]
+  },
+  "Min cost of 0": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        145
+      ]
+    ]
+  },
+  "Max 15": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        148
+      ]
+    ]
+  },
+  "Minimum Degree is required": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        151
+      ]
+    ]
+  },
+  "Content is required": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        154
+      ]
+    ]
+  },
+  "Perspectives are required": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        157
+      ]
+    ]
+  },
+  "Tests are required": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        160
+      ]
+    ]
+  },
+  "Pick up at least one": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        162
+      ],
+      [
+        "src/containers/University/Subjects/Form.js",
+        167
+      ],
+      [
+        "src/containers/University/Subjects/Form.js",
+        170
+      ]
+    ]
+  },
+  "Pick up maximum five": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        163
+      ],
+      [
+        "src/containers/University/Subjects/Form.js",
+        168
+      ],
+      [
+        "src/containers/University/Subjects/Form.js",
+        171
+      ]
+    ]
+  },
+  "Pick up five at most": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        164
+      ],
+      [
+        "src/containers/University/Subjects/Form.js",
+        165
+      ],
+      [
+        "src/containers/University/Subjects/Form.js",
+        172
+      ]
+    ]
+  },
+  "Invalid URL (e.g., https://google.com)": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        175
+      ]
+    ]
+  },
+  "You are leaving the page without saving and will lose all changed data.": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        282
+      ]
+    ]
+  },
+  "Leave": {
+    "origin": [
+      [
+        "src/containers/University/Subjects/Form.js",
+        289
+      ]
+    ]
+  }
+}

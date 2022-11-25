@@ -1,0 +1,66 @@
+{
+  "Details": {
+    "origin": [
+      [
+        "src/atomic/molecules/JobDetailsInfo.js",
+        40
+      ]
+    ]
+  },
+  "{0} at": {
+    "origin": [
+      [
+        "src/atomic/molecules/JobDetailsInfo.js",
+        47
+      ]
+    ]
+  },
+  "From {0}": {
+    "origin": [
+      [
+        "src/atomic/molecules/JobDetailsInfo.js",
+        66
+      ]
+    ]
+  },
+  "{start,date}": {
+    "origin": [
+      [
+        "src/atomic/molecules/JobDetailsInfo.js",
+        66
+      ]
+    ]
+  },
+  "to {0}": {
+    "origin": [
+      [
+        "src/atomic/molecules/JobDetailsInfo.js",
+        67
+      ]
+    ]
+  },
+  "{endDate,date}": {
+    "origin": [
+      [
+        "src/atomic/molecules/JobDetailsInfo.js",
+        67
+      ]
+    ]
+  },
+  "not informed": {
+    "origin": [
+      [
+        "src/atomic/molecules/JobDetailsInfo.js",
+        77
+      ]
+    ]
+  },
+  "{workingHoursPerWeek} per week": {
+    "origin": [
+      [
+        "src/atomic/molecules/JobDetailsInfo.js",
+        86
+      ]
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Professional": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileProfessional.js",
+        16
+      ]
+    ]
+  },
+  "{from,date}": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileProfessional.js",
+        37
+      ]
+    ]
+  },
+  "{to,date}": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileProfessional.js",
+        38
+      ]
+    ]
+  },
+  "ongoing": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileProfessional.js",
+        38
+      ]
+    ]
+  },
+  "{0} at {company_name}": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileProfessional.js",
+        41
+      ]
+    ]
+  },
+  "no professional entries": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileProfessional.js",
+        52
+      ]
+    ]
+  }
+}

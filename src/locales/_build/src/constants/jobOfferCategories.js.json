@@ -1,0 +1,58 @@
+{
+  "Aprenticeship": {
+    "origin": [
+      [
+        "src/constants/jobOfferCategories.js",
+        5
+      ]
+    ]
+  },
+  "Trainee": {
+    "origin": [
+      [
+        "src/constants/jobOfferCategories.js",
+        6
+      ]
+    ]
+  },
+  "Internship": {
+    "origin": [
+      [
+        "src/constants/jobOfferCategories.js",
+        7
+      ]
+    ]
+  },
+  "Job": {
+    "origin": [
+      [
+        "src/constants/jobOfferCategories.js",
+        8
+      ]
+    ]
+  },
+  "Student Employee": {
+    "origin": [
+      [
+        "src/constants/jobOfferCategories.js",
+        9
+      ]
+    ]
+  },
+  "Int. Degree Program": {
+    "origin": [
+      [
+        "src/constants/jobOfferCategories.js",
+        10
+      ]
+    ]
+  },
+  "All": {
+    "origin": [
+      [
+        "src/constants/jobOfferCategories.js",
+        14
+      ]
+    ]
+  }
+}

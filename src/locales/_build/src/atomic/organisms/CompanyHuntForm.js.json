@@ -1,0 +1,130 @@
+{
+  "Search by name, skill, country, city and graduation...": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        48
+      ]
+    ]
+  },
+  "Filter by": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        71
+      ]
+    ]
+  },
+  "Clear filters": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        74
+      ]
+    ]
+  },
+  "Age from": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        85
+      ]
+    ]
+  },
+  "Age to": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        94
+      ]
+    ]
+  },
+  "Max Average Grade": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        104
+      ]
+    ]
+  },
+  "Gender": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        111
+      ]
+    ]
+  },
+  "Mobility": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        122
+      ]
+    ]
+  },
+  "Max distance": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        133
+      ]
+    ]
+  },
+  "Educational Level": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        141
+      ]
+    ]
+  },
+  "Skills": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        153
+      ]
+    ]
+  },
+  "Choose up to 5": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        154
+      ],
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        166
+      ],
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        178
+      ]
+    ]
+  },
+  "Interests": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        165
+      ]
+    ]
+  },
+  "Strengths": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        177
+      ]
+    ]
+  },
+  "Apply": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHuntForm.js",
+        187
+      ]
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "Content is required": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        113
+      ]
+    ]
+  },
+  "Role is required": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        117
+      ]
+    ]
+  },
+  "City is required": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        121
+      ]
+    ]
+  },
+  "Country is required": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        125
+      ]
+    ]
+  },
+  "Address (street and number) is required": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        129
+      ]
+    ]
+  },
+  "Zip Code is required": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        133
+      ]
+    ]
+  },
+  "Invalid date. Format as mm/dd/yyyy.": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        136
+      ],
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        140
+      ]
+    ]
+  },
+  "Starting date is required": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        137
+      ]
+    ]
+  },
+  "Wage must be positive": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        143
+      ]
+    ]
+  },
+  "Minimum Degree is required": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        146
+      ]
+    ]
+  },
+  "What is expected from us is required": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        150
+      ]
+    ]
+  },
+  "What is expected from you is required": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        154
+      ]
+    ]
+  },
+  "Perspectives is required": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        158
+      ]
+    ]
+  },
+  "Tasks is required": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        162
+      ]
+    ]
+  },
+  "Minimum working hours per week is 1": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        165
+      ]
+    ]
+  },
+  "Maximum working hours per week are 50": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        166
+      ]
+    ]
+  },
+  "Pick up at least one": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        168
+      ],
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        173
+      ],
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        176
+      ]
+    ]
+  },
+  "Pick up maximum five": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        169
+      ],
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        174
+      ],
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        177
+      ]
+    ]
+  },
+  "Pick up five at most": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        170
+      ],
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        171
+      ],
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        178
+      ]
+    ]
+  },
+  "Invalid URL (e.g., https://google.com)": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        181
+      ]
+    ]
+  },
+  "You are leaving the page without saving and will lose all changed data.": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        289
+      ]
+    ]
+  },
+  "Leave": {
+    "origin": [
+      [
+        "src/containers/Company/Jobs/Form/Form.js",
+        296
+      ]
+    ]
+  }
+}

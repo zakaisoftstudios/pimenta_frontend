@@ -1,0 +1,42 @@
+{
+  "Add": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobListing.js",
+        41
+      ]
+    ]
+  },
+  "Published": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobListing.js",
+        51
+      ]
+    ]
+  },
+  "Unpublished": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobListing.js",
+        57
+      ]
+    ]
+  },
+  "you don't have any published Job Offer yet": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobListing.js",
+        83
+      ]
+    ]
+  },
+  "you don't have any unpublished Job Offer yet": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobListing.js",
+        84
+      ]
+    ]
+  }
+}

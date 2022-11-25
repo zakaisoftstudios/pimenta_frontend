@@ -1,0 +1,18 @@
+{
+  "Done!": {
+    "origin": [
+      [
+        "src/atomic/molecules/RegisterSuccessForm.js",
+        22
+      ]
+    ]
+  },
+  "Now we just need you to confirm the e-mail we sent to": {
+    "origin": [
+      [
+        "src/atomic/molecules/RegisterSuccessForm.js",
+        25
+      ]
+    ]
+  }
+}

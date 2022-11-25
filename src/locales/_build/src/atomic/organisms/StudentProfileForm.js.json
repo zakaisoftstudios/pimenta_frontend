@@ -1,0 +1,206 @@
+{
+  "Save and Return": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        72
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        76
+      ],
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        364
+      ]
+    ]
+  },
+  "Name": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        86
+      ]
+    ]
+  },
+  "Speciality": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        94
+      ]
+    ]
+  },
+  "Current job status": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        104
+      ]
+    ]
+  },
+  "Highest graduation level": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        117
+      ]
+    ]
+  },
+  "Area of graduation": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        125
+      ]
+    ]
+  },
+  "Average grade": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        134
+      ]
+    ]
+  },
+  "Birthday (mm/dd/yyyy)": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        144
+      ]
+    ]
+  },
+  "Country": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        155
+      ]
+    ]
+  },
+  "City": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        164
+      ]
+    ]
+  },
+  "Zip code": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        172
+      ]
+    ]
+  },
+  "Address (street and number)": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        182
+      ]
+    ]
+  },
+  "Gender": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        190
+      ]
+    ]
+  },
+  "Available for mobility": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        202
+      ]
+    ]
+  },
+  "Has driver licence": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        214
+      ]
+    ]
+  },
+  "Available From (mm/dd/yyyy)": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        227
+      ]
+    ]
+  },
+  "(Choose up to 5)": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        247
+      ],
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        272
+      ],
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        297
+      ]
+    ]
+  },
+  "Interests": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        257
+      ]
+    ]
+  },
+  "Strengths": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        282
+      ]
+    ]
+  },
+  "More": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        307
+      ]
+    ]
+  },
+  "Details": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        313
+      ]
+    ]
+  },
+  "Experiences": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        319
+      ]
+    ]
+  },
+  "Save": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfileForm.js",
+        367
+      ]
+    ]
+  }
+}

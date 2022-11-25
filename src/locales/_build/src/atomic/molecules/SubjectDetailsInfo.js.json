@@ -1,0 +1,58 @@
+{
+  "Details": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectDetailsInfo.js",
+        43
+      ]
+    ]
+  },
+  "{0} at": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectDetailsInfo.js",
+        50
+      ]
+    ]
+  },
+  "From {0} • {durationInHours}h": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectDetailsInfo.js",
+        69
+      ]
+    ]
+  },
+  "{startDate,date}": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectDetailsInfo.js",
+        70
+      ]
+    ]
+  },
+  "not informed": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectDetailsInfo.js",
+        81
+      ]
+    ]
+  },
+  "{hoursOfClassesPerWeek}h per week": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectDetailsInfo.js",
+        90
+      ]
+    ]
+  },
+  "Nummerus clausus: {0}": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectDetailsInfo.js",
+        104
+      ]
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "• {0} away": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectOffer.js",
+        69
+      ]
+    ]
+  },
+  "{start_date,date}": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectOffer.js",
+        76
+      ]
+    ]
+  },
+  "• {number_of_places} free places": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectOffer.js",
+        78
+      ]
+    ]
+  },
+  "not informed": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectOffer.js",
+        89
+      ]
+    ]
+  },
+  "Posted at {0}": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectOffer.js",
+        100
+      ]
+    ]
+  },
+  "{created_at,date}": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectOffer.js",
+        100
+      ]
+    ]
+  }
+}

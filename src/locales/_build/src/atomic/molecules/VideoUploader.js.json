@@ -1,0 +1,34 @@
+{
+  "Please upload only videos under 100mb.": {
+    "origin": [
+      [
+        "src/atomic/molecules/VideoUploader.js",
+        36
+      ]
+    ]
+  },
+  "Video Upload": {
+    "origin": [
+      [
+        "src/atomic/molecules/VideoUploader.js",
+        73
+      ]
+    ]
+  },
+  "Choose Video": {
+    "origin": [
+      [
+        "src/atomic/molecules/VideoUploader.js",
+        85
+      ]
+    ]
+  },
+  "Apply": {
+    "origin": [
+      [
+        "src/atomic/molecules/VideoUploader.js",
+        90
+      ]
+    ]
+  }
+}

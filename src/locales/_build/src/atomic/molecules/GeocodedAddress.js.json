@@ -1,0 +1,10 @@
+{
+  "Type a zip code to search": {
+    "origin": [
+      [
+        "src/atomic/molecules/GeocodedAddress.js",
+        19
+      ]
+    ]
+  }
+}

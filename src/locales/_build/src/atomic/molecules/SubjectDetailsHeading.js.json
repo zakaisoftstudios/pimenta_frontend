@@ -1,0 +1,34 @@
+{
+  "Posted at {0}": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectDetailsHeading.js",
+        27
+      ]
+    ]
+  },
+  "{createdAt,date}": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectDetailsHeading.js",
+        27
+      ]
+    ]
+  },
+  "{numberOfPlaces} free places": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectDetailsHeading.js",
+        30
+      ]
+    ]
+  },
+  "Edit": {
+    "origin": [
+      [
+        "src/atomic/molecules/SubjectDetailsHeading.js",
+        38
+      ]
+    ]
+  }
+}

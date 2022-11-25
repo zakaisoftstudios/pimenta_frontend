@@ -1,0 +1,34 @@
+{
+  "Done!": {
+    "origin": [
+      [
+        "src/atomic/molecules/EmailConfirmation.js",
+        25
+      ]
+    ]
+  },
+  "Registration confirmed!": {
+    "origin": [
+      [
+        "src/atomic/molecules/EmailConfirmation.js",
+        28
+      ]
+    ]
+  },
+  "Login": {
+    "origin": [
+      [
+        "src/atomic/molecules/EmailConfirmation.js",
+        33
+      ]
+    ]
+  },
+  "We are confirming your registration...": {
+    "origin": [
+      [
+        "src/atomic/molecules/EmailConfirmation.js",
+        41
+      ]
+    ]
+  }
+}

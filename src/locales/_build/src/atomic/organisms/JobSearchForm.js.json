@@ -1,0 +1,82 @@
+{
+  "Search by company name, job title, country and city...": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchForm.js",
+        36
+      ]
+    ]
+  },
+  "Wage from": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchForm.js",
+        52
+      ]
+    ]
+  },
+  "Wage to": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchForm.js",
+        62
+      ]
+    ]
+  },
+  "Working hours per week from": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchForm.js",
+        71
+      ]
+    ]
+  },
+  "Working hours per week to": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchForm.js",
+        80
+      ]
+    ]
+  },
+  "Starting Date (mm/dd/yyyy)": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchForm.js",
+        91
+      ]
+    ]
+  },
+  "Max distance": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchForm.js",
+        102
+      ]
+    ]
+  },
+  "Role": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchForm.js",
+        114
+      ]
+    ]
+  },
+  "Minimum Degree": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchForm.js",
+        124
+      ]
+    ]
+  },
+  "Apply": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchForm.js",
+        130
+      ]
+    ]
+  }
+}

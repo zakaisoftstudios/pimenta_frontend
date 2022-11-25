@@ -1,0 +1,26 @@
+{
+  "Yes": {
+    "origin": [
+      [
+        "src/constants/mobilities.js",
+        5
+      ]
+    ]
+  },
+  "No": {
+    "origin": [
+      [
+        "src/constants/mobilities.js",
+        6
+      ]
+    ]
+  },
+  "OPNV": {
+    "origin": [
+      [
+        "src/constants/mobilities.js",
+        7
+      ]
+    ]
+  }
+}

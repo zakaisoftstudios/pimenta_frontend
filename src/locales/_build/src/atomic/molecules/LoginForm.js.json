@@ -1,0 +1,26 @@
+{
+  "Login": {
+    "origin": [
+      [
+        "src/atomic/molecules/LoginForm.js",
+        58
+      ]
+    ]
+  },
+  "Sign up for a new C2SU account": {
+    "origin": [
+      [
+        "src/atomic/molecules/LoginForm.js",
+        70
+      ]
+    ]
+  },
+  "Did you forget your password?": {
+    "origin": [
+      [
+        "src/atomic/molecules/LoginForm.js",
+        74
+      ]
+    ]
+  }
+}

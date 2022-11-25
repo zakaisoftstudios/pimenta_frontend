@@ -1,0 +1,26 @@
+{
+  "• {0} away": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentCard.js",
+        50
+      ]
+    ]
+  },
+  "{grade_point_average} average grade": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentCard.js",
+        58
+      ]
+    ]
+  },
+  "{age} years old": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentCard.js",
+        65
+      ]
+    ]
+  }
+}

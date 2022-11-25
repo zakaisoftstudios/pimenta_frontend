@@ -1,0 +1,26 @@
+{
+  "Return": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfile.js",
+        56
+      ]
+    ]
+  },
+  "About us": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfile.js",
+        62
+      ]
+    ]
+  },
+  "Edit": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfile.js",
+        63
+      ]
+    ]
+  }
+}

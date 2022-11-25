@@ -1,0 +1,65 @@
+<html>
+
+<head>
+</head>
+
+<body>
+  <div id="container">
+    <header>Header</header>
+    <main>
+      <section>
+        <p>
+          sdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkksdsdsdsdkk
+        </p>
+      </section>
+      <section>sec</section>
+      <section>sec</section>
+    </main>
+    <footer>footer</footer>
+  </div>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      height: 100%;
+    }
+
+    #container {
+      display: flex;
+      /* displays flex-items (children) inline */
+      flex-direction: column;
+      /* stacks them vertically */
+      height: 100%;
+    }
+
+    header {
+      background: #f88;
+    }
+
+    main {
+      flex: 1;
+      /* takes the remaining height */
+      overflow: auto;
+    }
+
+    section {
+      height: 100%;
+      /* takes the visible area of the "main" div */
+      overflow: auto;
+      /* recommended */
+      box-shadow: inset 0 1px 1px #000;
+      /* just for demo */
+      background: lightgreen;
+    }
+
+    footer {
+      background: lightblue;
+    }
+  </style>
+</body>
+
+</html>

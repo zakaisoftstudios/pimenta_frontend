@@ -1,0 +1,26 @@
+{
+  "Liked from": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityLikedFrom.js",
+        22
+      ]
+    ]
+  },
+  "no one liked your subjects yet": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityLikedFrom.js",
+        40
+      ]
+    ]
+  },
+  "Liked {0} subject offers": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityLikedFrom.js",
+        50
+      ]
+    ]
+  }
+}

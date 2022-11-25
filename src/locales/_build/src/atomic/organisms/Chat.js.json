@@ -1,0 +1,18 @@
+{
+  "Messages": {
+    "origin": [
+      [
+        "src/atomic/organisms/Chat.js",
+        28
+      ]
+    ]
+  },
+  "You have no messages! <0/>Connect with a professional <1/> to start to chat.": {
+    "origin": [
+      [
+        "src/atomic/organisms/Chat.js",
+        38
+      ]
+    ]
+  }
+}

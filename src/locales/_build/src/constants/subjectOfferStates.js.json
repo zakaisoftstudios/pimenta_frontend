@@ -1,0 +1,18 @@
+{
+  "Yes": {
+    "origin": [
+      [
+        "src/constants/subjectOfferStates.js",
+        5
+      ]
+    ]
+  },
+  "No": {
+    "origin": [
+      [
+        "src/constants/subjectOfferStates.js",
+        6
+      ]
+    ]
+  }
+}

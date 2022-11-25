@@ -1,0 +1,18 @@
+{
+  "Match (highest)": {
+    "origin": [
+      [
+        "src/constants/studentSearchOrders.js",
+        7
+      ]
+    ]
+  },
+  "Distance (nearest)": {
+    "origin": [
+      [
+        "src/constants/studentSearchOrders.js",
+        11
+      ]
+    ]
+  }
+}

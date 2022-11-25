@@ -1,0 +1,71 @@
+.react-datepicker-component {
+  font-size: inherit !important;
+  font-weight: inherit !important;
+}
+
+.react-datepicker-input,
+.react-datepicker-input.has-value {
+  color: #646464 !important;
+  font-weight: inherit !important;
+  background: transparent !important;
+  border: inherit !important;
+  min-width: inherit;
+  height: inherit;
+  background: transparent;
+  border: inherit;
+  border-radius: inherit;
+}
+
+.react-datepicker-component .react-datepicker-input input {
+  width: 100% !important;
+  height: inherit !important;
+  background: transparent !important;
+  border: inherit !important;
+  padding-right: 60px !important;
+  font-size: inherit !important;
+  font-weight: inherit !important;
+  height: auto !important;
+  width: 100% !important;
+  border-style: none !important;
+  border-bottom: 2px solid #bdbdbd !important;
+  min-height: 37px !important;
+  outline: 0 !important;
+  vertical-align: middle !important;
+  box-shadow: none !important;
+  box-sizing: border-box !important;
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
+  appearance: none !important;
+  padding-bottom: 1rem !important;
+  padding-left: 1.5rem !important;
+  background-color: transparent !important;
+  padding-top: 0.5rem !important;
+  outline: none !important;
+  color: #646464 !important;
+  transition: border linear 0.2s, box-shadow linear 0.2s !important;
+}
+
+.react-datepicker-component .react-datepicker-input input::placeholder {
+  color: #c4c4c4 !important;
+  font-style: italic !important;
+  vertical-align: bottom !important;
+}
+
+.react-datepicker-component .react-datepicker-input input:focus {
+  outline: 0 !important;
+  border-bottom: 2px solid #01c0ea !important;
+}
+
+.react-datepicker-component .react-datepicker-input input:hover:not(:focus) {
+  outline: 0 !important;
+  border-bottom: 2px solid #757575 !important;
+}
+
+.react-datepicker .react-datepicker-container .react-datepicker-top {
+  
+}
+
+.react-datepicker .react-datepicker-container .react-datepicker-body .react-datepicker-row .react-datepicker-picker.selected.current {
+  color: #ffff !important;
+  background: #01c0ea !important;
+}

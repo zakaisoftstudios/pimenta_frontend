@@ -1,0 +1,34 @@
+{
+  "{number_of_employees, plural, one {# Employee} other {# Employees}}": {
+    "origin": [
+      [
+        "src/atomic/molecules/CompanyCard.js",
+        64
+      ]
+    ]
+  },
+  "Hunted at {0}": {
+    "origin": [
+      [
+        "src/atomic/molecules/CompanyCard.js",
+        73
+      ]
+    ]
+  },
+  "{createdAt,date}": {
+    "origin": [
+      [
+        "src/atomic/molecules/CompanyCard.js",
+        73
+      ]
+    ]
+  },
+  "{0, plural, one {# job} other {# jobs}}": {
+    "origin": [
+      [
+        "src/atomic/molecules/CompanyCard.js",
+        82
+      ]
+    ]
+  }
+}

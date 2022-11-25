@@ -1,0 +1,26 @@
+{
+  "Must have:": {
+    "origin": [
+      [
+        "src/atomic/molecules/QualitiesList.js",
+        16
+      ]
+    ]
+  },
+  "Can have:": {
+    "origin": [
+      [
+        "src/atomic/molecules/QualitiesList.js",
+        23
+      ]
+    ]
+  },
+  "none": {
+    "origin": [
+      [
+        "src/atomic/molecules/QualitiesList.js",
+        28
+      ]
+    ]
+  }
+}

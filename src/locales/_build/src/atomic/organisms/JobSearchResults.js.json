@@ -1,0 +1,42 @@
+{
+  "Results": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchResults.js",
+        32
+      ]
+    ]
+  },
+  "{totalItemsCount} found": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchResults.js",
+        36
+      ]
+    ]
+  },
+  "Order by": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchResults.js",
+        46
+      ]
+    ]
+  },
+  "there's no job offers that match your current search": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchResults.js",
+        76
+      ]
+    ]
+  },
+  "How far should be your next step? <0/>A new city or a higher wage? <1/>Maybe you know the industry, but <2/>aren't sure about THE company. <3/><4/>Filter your dream job and we help you find it!": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobSearchResults.js",
+        90
+      ]
+    ]
+  }
+}

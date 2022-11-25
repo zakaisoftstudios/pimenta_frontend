@@ -1,0 +1,34 @@
+{
+  "You have a new match!": {
+    "origin": [
+      [
+        "src/atomic/molecules/MatchMessageModal.js",
+        17
+      ]
+    ]
+  },
+  "You hunted a student who have already liked one of your job offers, and now you can chat to each other.": {
+    "origin": [
+      [
+        "src/atomic/molecules/MatchMessageModal.js",
+        20
+      ]
+    ]
+  },
+  "You liked a job from a company which already liked you too, and now you can chat to each other.": {
+    "origin": [
+      [
+        "src/atomic/molecules/MatchMessageModal.js",
+        29
+      ]
+    ]
+  },
+  "Continue": {
+    "origin": [
+      [
+        "src/atomic/molecules/MatchMessageModal.js",
+        38
+      ]
+    ]
+  }
+}

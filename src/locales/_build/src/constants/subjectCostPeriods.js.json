@@ -1,0 +1,34 @@
+{
+  "Hour": {
+    "origin": [
+      [
+        "src/constants/subjectCostPeriods.js",
+        5
+      ]
+    ]
+  },
+  "Week": {
+    "origin": [
+      [
+        "src/constants/subjectCostPeriods.js",
+        6
+      ]
+    ]
+  },
+  "Month": {
+    "origin": [
+      [
+        "src/constants/subjectCostPeriods.js",
+        7
+      ]
+    ]
+  },
+  "Total": {
+    "origin": [
+      [
+        "src/constants/subjectCostPeriods.js",
+        8
+      ]
+    ]
+  }
+}

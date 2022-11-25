@@ -1,0 +1,10 @@
+{
+  "{totalItemsCount, plural, one {# Job Offer found} other {# Job Offers found}}": {
+    "origin": [
+      [
+        "src/atomic/molecules/ProfileJobsHeader.js",
+        18
+      ]
+    ]
+  }
+}

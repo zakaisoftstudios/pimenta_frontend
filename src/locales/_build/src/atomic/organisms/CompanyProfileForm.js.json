@@ -1,0 +1,166 @@
+{
+  "Save and Return": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        50
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        54
+      ],
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        233
+      ]
+    ]
+  },
+  "Company Name": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        64
+      ]
+    ]
+  },
+  "Industry Sector": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        72
+      ]
+    ]
+  },
+  "Number of Employess": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        81
+      ]
+    ]
+  },
+  "About us": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        87
+      ]
+    ]
+  },
+  "What we do": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        94
+      ]
+    ]
+  },
+  "Why we do it": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        102
+      ]
+    ]
+  },
+  "Why should you join": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        110
+      ]
+    ]
+  },
+  "Special Features": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        118
+      ]
+    ]
+  },
+  "Be in touch": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        123
+      ]
+    ]
+  },
+  "Address": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        126
+      ]
+    ]
+  },
+  "Country": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        135
+      ]
+    ]
+  },
+  "City": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        144
+      ]
+    ]
+  },
+  "Zip code": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        152
+      ]
+    ]
+  },
+  "Address (street and number)": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        162
+      ]
+    ]
+  },
+  "Links": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        167
+      ]
+    ]
+  },
+  "Website": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        173
+      ]
+    ]
+  },
+  "Contact Email": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        182
+      ]
+    ]
+  },
+  "Save": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyProfileForm.js",
+        236
+      ]
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "{totalItemsCount, plural, one {# Subject Offer found} other {# Subject Offers found}}": {
+    "origin": [
+      [
+        "src/atomic/molecules/ProfileSubjectHeader.js",
+        18
+      ]
+    ]
+  }
+}

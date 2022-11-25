@@ -1,0 +1,82 @@
+{
+  "Create an account": {
+    "origin": [
+      [
+        "src/atomic/molecules/RegisterForm.js",
+        39
+      ]
+    ]
+  },
+  "You are:": {
+    "origin": [
+      [
+        "src/atomic/molecules/RegisterForm.js",
+        47
+      ]
+    ]
+  },
+  "name": {
+    "origin": [
+      [
+        "src/atomic/molecules/RegisterForm.js",
+        59
+      ]
+    ]
+  },
+  "email": {
+    "origin": [
+      [
+        "src/atomic/molecules/RegisterForm.js",
+        67
+      ]
+    ]
+  },
+  "password": {
+    "origin": [
+      [
+        "src/atomic/molecules/RegisterForm.js",
+        76
+      ]
+    ]
+  },
+  "confirm password": {
+    "origin": [
+      [
+        "src/atomic/molecules/RegisterForm.js",
+        85
+      ]
+    ]
+  },
+  "Register": {
+    "origin": [
+      [
+        "src/atomic/molecules/RegisterForm.js",
+        92
+      ]
+    ]
+  },
+  "Login": {
+    "origin": [
+      [
+        "src/atomic/molecules/RegisterForm.js",
+        95
+      ]
+    ]
+  },
+  "Terms and Conditions": {
+    "origin": [
+      [
+        "src/atomic/molecules/RegisterForm.js",
+        108
+      ]
+    ]
+  },
+  "I have read the terms of use and agree.": {
+    "origin": [
+      [
+        "src/atomic/molecules/RegisterForm.js",
+        111
+      ]
+    ]
+  }
+}

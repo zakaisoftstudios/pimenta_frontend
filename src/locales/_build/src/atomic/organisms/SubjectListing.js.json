@@ -1,0 +1,42 @@
+{
+  "Add": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectListing.js",
+        40
+      ]
+    ]
+  },
+  "Published": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectListing.js",
+        50
+      ]
+    ]
+  },
+  "Unpublished": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectListing.js",
+        56
+      ]
+    ]
+  },
+  "you don't have any published Subject Offer yet": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectListing.js",
+        84
+      ]
+    ]
+  },
+  "you don't have any unpublished Subject Offer yet": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectListing.js",
+        85
+      ]
+    ]
+  }
+}

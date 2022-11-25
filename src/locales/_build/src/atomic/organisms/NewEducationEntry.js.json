@@ -1,0 +1,90 @@
+{
+  "From (mm/dd/yyyy)": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewEducationEntry.js",
+        38
+      ]
+    ]
+  },
+  "To (mm/dd/yyyy)": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewEducationEntry.js",
+        48
+      ]
+    ]
+  },
+  "School Name": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewEducationEntry.js",
+        58
+      ]
+    ]
+  },
+  "City": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewEducationEntry.js",
+        66
+      ]
+    ]
+  },
+  "Country": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewEducationEntry.js",
+        72
+      ]
+    ]
+  },
+  "Educational Level": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewEducationEntry.js",
+        82
+      ]
+    ]
+  },
+  "Average Grade": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewEducationEntry.js",
+        90
+      ]
+    ]
+  },
+  "Area of graduation": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewEducationEntry.js",
+        100
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewEducationEntry.js",
+        109
+      ]
+    ]
+  },
+  "Update": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewEducationEntry.js",
+        112
+      ]
+    ]
+  },
+  "Add": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewEducationEntry.js",
+        112
+      ]
+    ]
+  }
+}

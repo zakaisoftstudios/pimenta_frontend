@@ -1,0 +1,38 @@
+{
+  "{0,date}": {
+    "origin": [
+      [
+        "src/atomic/organisms/EducationEntry.js",
+        16
+      ],
+      [
+        "src/atomic/organisms/EducationEntry.js",
+        17
+      ]
+    ]
+  },
+  "ongoing": {
+    "origin": [
+      [
+        "src/atomic/organisms/EducationEntry.js",
+        17
+      ]
+    ]
+  },
+  "Average Grade: {0}": {
+    "origin": [
+      [
+        "src/atomic/organisms/EducationEntry.js",
+        27
+      ]
+    ]
+  },
+  "Area of graduation: {0}": {
+    "origin": [
+      [
+        "src/atomic/organisms/EducationEntry.js",
+        32
+      ]
+    ]
+  }
+}

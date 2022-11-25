@@ -1,0 +1,190 @@
+{
+  "Save and Return": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        61
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        63
+      ],
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        289
+      ]
+    ]
+  },
+  "Subject Offers": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        70
+      ]
+    ]
+  },
+  "Published": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        77
+      ]
+    ]
+  },
+  "Name of the class": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        98
+      ]
+    ]
+  },
+  "Type of degree": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        106
+      ]
+    ]
+  },
+  "Country": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        118
+      ]
+    ]
+  },
+  "City": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        127
+      ]
+    ]
+  },
+  "Zip code": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        135
+      ]
+    ]
+  },
+  "Address (street and number)": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        145
+      ]
+    ]
+  },
+  "Starting date": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        154
+      ]
+    ]
+  },
+  "Duration in hours": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        163
+      ]
+    ]
+  },
+  "Period": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        174
+      ]
+    ]
+  },
+  "Value (EUR)": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        183
+      ]
+    ]
+  },
+  "Hours per week": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        193
+      ]
+    ]
+  },
+  "Number of places": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        203
+      ]
+    ]
+  },
+  "Numerus Clausus (from 0.0 to 15.0)": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        212
+      ]
+    ]
+  },
+  "Minimum Degree": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        221
+      ]
+    ]
+  },
+  "Link to Website": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        232
+      ]
+    ]
+  },
+  "Content": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        243
+      ]
+    ]
+  },
+  "Perspectives": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        251
+      ]
+    ]
+  },
+  "Tests": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        259
+      ]
+    ]
+  },
+  "Save": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectForm.js",
+        292
+      ]
+    ]
+  }
+}

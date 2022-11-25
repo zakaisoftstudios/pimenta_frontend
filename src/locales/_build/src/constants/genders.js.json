@@ -1,0 +1,34 @@
+{
+  "Male": {
+    "origin": [
+      [
+        "src/constants/genders.js",
+        5
+      ]
+    ]
+  },
+  "Female": {
+    "origin": [
+      [
+        "src/constants/genders.js",
+        6
+      ]
+    ]
+  },
+  "X": {
+    "origin": [
+      [
+        "src/constants/genders.js",
+        7
+      ]
+    ]
+  },
+  "Any": {
+    "origin": [
+      [
+        "src/constants/genders.js",
+        10
+      ]
+    ]
+  }
+}

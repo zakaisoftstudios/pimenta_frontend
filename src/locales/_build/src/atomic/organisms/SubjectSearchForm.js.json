@@ -1,0 +1,90 @@
+{
+  "Search by university name, subject title, country and city...": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectSearchForm.js",
+        39
+      ]
+    ]
+  },
+  "Cost from": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectSearchForm.js",
+        55
+      ]
+    ]
+  },
+  "Cost to": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectSearchForm.js",
+        65
+      ]
+    ]
+  },
+  "Nummerus Clausus": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectSearchForm.js",
+        74
+      ]
+    ]
+  },
+  "Starting date (mm/dd/yyyy)": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectSearchForm.js",
+        83
+      ]
+    ]
+  },
+  "Duration from (h)": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectSearchForm.js",
+        94
+      ]
+    ]
+  },
+  "Duration to (h)": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectSearchForm.js",
+        103
+      ]
+    ]
+  },
+  "Type of degree": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectSearchForm.js",
+        114
+      ]
+    ]
+  },
+  "Minimum Degree": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectSearchForm.js",
+        123
+      ]
+    ]
+  },
+  "Max distance": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectSearchForm.js",
+        136
+      ]
+    ]
+  },
+  "Apply": {
+    "origin": [
+      [
+        "src/atomic/organisms/SubjectSearchForm.js",
+        142
+      ]
+    ]
+  }
+}

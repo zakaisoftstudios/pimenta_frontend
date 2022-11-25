@@ -1,0 +1,10 @@
+{
+  "Successfull registration! We sent you a confirmation email.": {
+    "origin": [
+      [
+        "src/atomic/molecules/RegistrationSuccess.js",
+        8
+      ]
+    ]
+  }
+}

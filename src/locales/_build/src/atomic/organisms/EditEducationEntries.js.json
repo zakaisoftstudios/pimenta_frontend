@@ -1,0 +1,58 @@
+{
+  "Educational": {
+    "origin": [
+      [
+        "src/atomic/organisms/EditEducationEntries.js",
+        31
+      ]
+    ]
+  },
+  "EDIT": {
+    "origin": [
+      [
+        "src/atomic/organisms/EditEducationEntries.js",
+        44
+      ],
+      [
+        "src/atomic/organisms/EditEducationEntries.js",
+        81
+      ]
+    ]
+  },
+  "DELETE": {
+    "origin": [
+      [
+        "src/atomic/organisms/EditEducationEntries.js",
+        53
+      ],
+      [
+        "src/atomic/organisms/EditEducationEntries.js",
+        90
+      ]
+    ]
+  },
+  "add your educational history": {
+    "origin": [
+      [
+        "src/atomic/organisms/EditEducationEntries.js",
+        63
+      ]
+    ]
+  },
+  "New education entries:": {
+    "origin": [
+      [
+        "src/atomic/organisms/EditEducationEntries.js",
+        70
+      ]
+    ]
+  },
+  "Add": {
+    "origin": [
+      [
+        "src/atomic/organisms/EditEducationEntries.js",
+        110
+      ]
+    ]
+  }
+}

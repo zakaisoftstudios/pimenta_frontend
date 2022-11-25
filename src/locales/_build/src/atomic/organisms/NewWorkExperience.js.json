@@ -1,0 +1,98 @@
+{
+  "Job Role": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewWorkExperience.js",
+        31
+      ]
+    ]
+  },
+  "From (mm/dd/yyyy)": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewWorkExperience.js",
+        39
+      ]
+    ]
+  },
+  "To (mm/dd/yyyy)": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewWorkExperience.js",
+        49
+      ]
+    ]
+  },
+  "Type": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewWorkExperience.js",
+        61
+      ]
+    ]
+  },
+  "Institution": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewWorkExperience.js",
+        69
+      ]
+    ]
+  },
+  "Department": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewWorkExperience.js",
+        77
+      ]
+    ]
+  },
+  "City": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewWorkExperience.js",
+        85
+      ]
+    ]
+  },
+  "Country": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewWorkExperience.js",
+        92
+      ]
+    ]
+  },
+  "Tasks": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewWorkExperience.js",
+        100
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewWorkExperience.js",
+        111
+      ]
+    ]
+  },
+  "Update": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewWorkExperience.js",
+        114
+      ]
+    ]
+  },
+  "Add": {
+    "origin": [
+      [
+        "src/atomic/organisms/NewWorkExperience.js",
+        114
+      ]
+    ]
+  }
+}

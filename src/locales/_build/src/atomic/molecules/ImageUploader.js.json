@@ -1,0 +1,30 @@
+{
+  "Image Upload": {
+    "origin": [
+      [
+        "src/atomic/molecules/ImageUploader.js",
+        115
+      ]
+    ]
+  },
+  "Choose Image": {
+    "origin": [
+      [
+        "src/atomic/molecules/ImageUploader.js",
+        135
+      ],
+      [
+        "src/atomic/molecules/ImageUploader.js",
+        138
+      ]
+    ]
+  },
+  "Apply": {
+    "origin": [
+      [
+        "src/atomic/molecules/ImageUploader.js",
+        142
+      ]
+    ]
+  }
+}

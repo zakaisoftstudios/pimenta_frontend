@@ -1,0 +1,50 @@
+{
+  "Cover Image": {
+    "origin": [
+      [
+        "src/services/attachments/index.js",
+        10
+      ]
+    ]
+  },
+  "Avatar Image": {
+    "origin": [
+      [
+        "src/services/attachments/index.js",
+        16
+      ]
+    ]
+  },
+  "Main Image": {
+    "origin": [
+      [
+        "src/services/attachments/index.js",
+        22
+      ]
+    ]
+  },
+  "Banner Image": {
+    "origin": [
+      [
+        "src/services/attachments/index.js",
+        28
+      ]
+    ]
+  },
+  "Image": {
+    "origin": [
+      [
+        "src/services/attachments/index.js",
+        34
+      ]
+    ]
+  },
+  "Video": {
+    "origin": [
+      [
+        "src/services/attachments/index.js",
+        38
+      ]
+    ]
+  }
+}

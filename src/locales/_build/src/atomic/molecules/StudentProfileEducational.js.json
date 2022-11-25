@@ -1,0 +1,58 @@
+{
+  "Educational": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileEducational.js",
+        16
+      ]
+    ]
+  },
+  "{from,date}": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileEducational.js",
+        34
+      ]
+    ]
+  },
+  "{to,date}": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileEducational.js",
+        35
+      ]
+    ]
+  },
+  "ongoing": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileEducational.js",
+        35
+      ]
+    ]
+  },
+  "Average Grade: {grade_point_average}": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileEducational.js",
+        40
+      ]
+    ]
+  },
+  "Area of graduation: {area_of_graduation}": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileEducational.js",
+        44
+      ]
+    ]
+  },
+  "no educational entries": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileEducational.js",
+        52
+      ]
+    ]
+  }
+}

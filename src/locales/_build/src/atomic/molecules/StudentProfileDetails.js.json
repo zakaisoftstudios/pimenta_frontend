@@ -1,0 +1,42 @@
+{
+  "Was born at {dateOfBirth,date} - {0} years": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileDetails.js",
+        41
+      ]
+    ]
+  },
+  "Average grade {gradePointAverage}": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileDetails.js",
+        70
+      ]
+    ]
+  },
+  "Available for mobility: {0}": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileDetails.js",
+        77
+      ]
+    ]
+  },
+  "Has driver license: {0}": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileDetails.js",
+        85
+      ]
+    ]
+  },
+  "Details": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileDetails.js",
+        93
+      ]
+    ]
+  }
+}

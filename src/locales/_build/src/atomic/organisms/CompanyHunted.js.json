@@ -1,0 +1,10 @@
+{
+  "you haven't hunted anyone yet": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyHunted.js",
+        41
+      ]
+    ]
+  }
+}

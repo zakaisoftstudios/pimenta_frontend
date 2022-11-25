@@ -1,0 +1,18 @@
+{
+  "no one liked you yet": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyLikedFrom.js",
+        44
+      ]
+    ]
+  },
+  "{0, plural, one {Applied in # position} other {Applied in # positions}}": {
+    "origin": [
+      [
+        "src/atomic/organisms/CompanyLikedFrom.js",
+        55
+      ]
+    ]
+  }
+}

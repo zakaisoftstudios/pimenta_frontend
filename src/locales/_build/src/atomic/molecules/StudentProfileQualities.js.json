@@ -1,0 +1,26 @@
+{
+  "Skills": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileQualities.js",
+        10
+      ]
+    ]
+  },
+  "Interests": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileQualities.js",
+        12
+      ]
+    ]
+  },
+  "Strengths": {
+    "origin": [
+      [
+        "src/atomic/molecules/StudentProfileQualities.js",
+        16
+      ]
+    ]
+  }
+}

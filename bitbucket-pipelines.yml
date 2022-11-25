@@ -1,0 +1,36 @@
+pipelines:
+  branches:
+    master:
+      - step:
+          image: node:8.9.4
+          caches:
+            - node-modules
+          script: # Modify the commands below to build your repository.
+            - npm install
+            - REACT_APP_API_URL=$API_URL REACT_APP_WS_URL=$API_WS_URL CI=false npm run build
+            - apk update && apk add python-dev curl curl-dev
+            - curl -O https://bootstrap.pypa.io/get-pip.py
+            - python get-pip.py
+            - pip install awscli
+            - aws s3 sync --debug --delete build s3://app.c2su.de
+            - aws cloudfront create-invalidation --distribution-id $AWS_CLOUDFRONT_DISTRIBUTION --paths "/*"
+    develop:
+      - step:
+          image: node:8.9.4
+          caches:
+            - node-modules
+          script: # Modify the commands below to build your repository.
+            - npm install
+            - REACT_APP_API_URL=$DEV_API_URL REACT_APP_WS_URL=$DEV_API_WS_URL CI=false npm run build
+            - apk update && apk add python-dev curl curl-dev
+            - curl -O https://bootstrap.pypa.io/get-pip.py
+            - python get-pip.py
+            - pip install awscli
+            - aws s3 sync --debug --delete build s3://c2su-dev.a.pimenta.cloud
+            - aws cloudfront create-invalidation --distribution-id $DEV_AWS_CLOUDFRONT_DISTRIBUTION --paths "/*"
+definitions:
+  caches:
+    node-modules: ./node_modules
+  services:
+    docker:
+      memory: 2048

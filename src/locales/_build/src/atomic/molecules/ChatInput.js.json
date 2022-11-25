@@ -1,0 +1,18 @@
+{
+  "Write your message": {
+    "origin": [
+      [
+        "src/atomic/molecules/ChatInput.js",
+        17
+      ]
+    ]
+  },
+  "Send message": {
+    "origin": [
+      [
+        "src/atomic/molecules/ChatInput.js",
+        27
+      ]
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "Save and Return": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        55
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        57
+      ],
+      [
+        "src/atomic/organisms/JobForm.js",
+        277
+      ]
+    ]
+  },
+  "Job Offers": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        64
+      ]
+    ]
+  },
+  "Published": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        71
+      ]
+    ]
+  },
+  "Job Title": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        92
+      ]
+    ]
+  },
+  "Role": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        100
+      ]
+    ]
+  },
+  "Country": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        112
+      ]
+    ]
+  },
+  "City": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        121
+      ]
+    ]
+  },
+  "Zip code": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        129
+      ]
+    ]
+  },
+  "Address (street and number)": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        139
+      ]
+    ]
+  },
+  "Starting date (mm/dd/yyyy)": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        148
+      ]
+    ]
+  },
+  "Ending date (mm/dd/yyyy)": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        158
+      ]
+    ]
+  },
+  "Wage": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        165
+      ]
+    ]
+  },
+  "Period": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        172
+      ]
+    ]
+  },
+  "Value (EUR)": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        182
+      ]
+    ]
+  },
+  "Working hours per week": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        192
+      ]
+    ]
+  },
+  "Minimum Degree": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        201
+      ]
+    ]
+  },
+  "Link to Website": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        212
+      ]
+    ]
+  },
+  "What is expected from us": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        223
+      ]
+    ]
+  },
+  "What is expected from you": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        231
+      ]
+    ]
+  },
+  "Tasks": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        239
+      ]
+    ]
+  },
+  "Perspectives": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        247
+      ]
+    ]
+  },
+  "Save": {
+    "origin": [
+      [
+        "src/atomic/organisms/JobForm.js",
+        280
+      ]
+    ]
+  }
+}

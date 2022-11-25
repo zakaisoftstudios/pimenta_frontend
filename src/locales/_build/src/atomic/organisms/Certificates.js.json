@@ -1,0 +1,78 @@
+{
+  "Certificates": {
+    "origin": [
+      [
+        "src/atomic/organisms/Certificates.js",
+        33
+      ]
+    ]
+  },
+  "DELETE": {
+    "origin": [
+      [
+        "src/atomic/organisms/Certificates.js",
+        49
+      ],
+      [
+        "src/atomic/organisms/Certificates.js",
+        74
+      ]
+    ]
+  },
+  "pick up max 5 certificates": {
+    "origin": [
+      [
+        "src/atomic/organisms/Certificates.js",
+        57
+      ]
+    ]
+  },
+  "New certificates:": {
+    "origin": [
+      [
+        "src/atomic/organisms/Certificates.js",
+        64
+      ]
+    ]
+  },
+  "Title": {
+    "origin": [
+      [
+        "src/atomic/organisms/Certificates.js",
+        89
+      ]
+    ]
+  },
+  "Upload a Certificate": {
+    "origin": [
+      [
+        "src/atomic/organisms/Certificates.js",
+        101
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/atomic/organisms/Certificates.js",
+        110
+      ]
+    ]
+  },
+  "Add": {
+    "origin": [
+      [
+        "src/atomic/organisms/Certificates.js",
+        118
+      ]
+    ]
+  },
+  "Add Certificate": {
+    "origin": [
+      [
+        "src/atomic/organisms/Certificates.js",
+        125
+      ]
+    ]
+  }
+}

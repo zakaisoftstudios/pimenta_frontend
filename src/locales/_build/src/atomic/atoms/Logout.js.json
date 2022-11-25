@@ -1,0 +1,10 @@
+{
+  "Logout": {
+    "origin": [
+      [
+        "src/atomic/atoms/Logout.js",
+        9
+      ]
+    ]
+  }
+}

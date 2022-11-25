@@ -1,0 +1,30 @@
+{
+  "{0,date}": {
+    "origin": [
+      [
+        "src/atomic/organisms/WorkExperience.js",
+        19
+      ],
+      [
+        "src/atomic/organisms/WorkExperience.js",
+        21
+      ]
+    ]
+  },
+  "ongoing": {
+    "origin": [
+      [
+        "src/atomic/organisms/WorkExperience.js",
+        23
+      ]
+    ]
+  },
+  "{0} at {1}": {
+    "origin": [
+      [
+        "src/atomic/organisms/WorkExperience.js",
+        28
+      ]
+    ]
+  }
+}

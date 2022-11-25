@@ -1,0 +1,18 @@
+{
+  "Are you sure?": {
+    "origin": [
+      [
+        "src/atomic/molecules/ActionModal.js",
+        11
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/atomic/molecules/ActionModal.js",
+        16
+      ]
+    ]
+  }
+}

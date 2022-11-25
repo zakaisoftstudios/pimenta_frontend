@@ -1,0 +1,50 @@
+{
+  "Skills": {
+    "origin": [
+      [
+        "src/atomic/organisms/QualitiesForm.js",
+        18
+      ]
+    ]
+  },
+  "Interests": {
+    "origin": [
+      [
+        "src/atomic/organisms/QualitiesForm.js",
+        26
+      ]
+    ]
+  },
+  "Strengths": {
+    "origin": [
+      [
+        "src/atomic/organisms/QualitiesForm.js",
+        34
+      ]
+    ]
+  },
+  "(must have)": {
+    "origin": [
+      [
+        "src/atomic/organisms/QualitiesForm.js",
+        89
+      ]
+    ]
+  },
+  "(can have)": {
+    "origin": [
+      [
+        "src/atomic/organisms/QualitiesForm.js",
+        89
+      ]
+    ]
+  },
+  "(Choose up to 5)": {
+    "origin": [
+      [
+        "src/atomic/organisms/QualitiesForm.js",
+        173
+      ]
+    ]
+  }
+}

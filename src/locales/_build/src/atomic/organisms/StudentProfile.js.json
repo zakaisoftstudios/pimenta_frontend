@@ -1,0 +1,42 @@
+{
+  "Return": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfile.js",
+        77
+      ]
+    ]
+  },
+  "About me": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfile.js",
+        82
+      ]
+    ]
+  },
+  "Edit": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfile.js",
+        83
+      ]
+    ]
+  },
+  "More": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfile.js",
+        108
+      ]
+    ]
+  },
+  "Experiences": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentProfile.js",
+        114
+      ]
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Search": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentSearch.js",
+        29
+      ]
+    ]
+  },
+  "For Jobs": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentSearch.js",
+        37
+      ]
+    ]
+  },
+  "For Subjects": {
+    "origin": [
+      [
+        "src/atomic/organisms/StudentSearch.js",
+        44
+      ]
+    ]
+  }
+}

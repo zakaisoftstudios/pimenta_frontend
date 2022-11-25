@@ -1,0 +1,10 @@
+{
+  "{time,date}": {
+    "origin": [
+      [
+        "src/atomic/molecules/ChatBubble.js",
+        10
+      ]
+    ]
+  }
+}

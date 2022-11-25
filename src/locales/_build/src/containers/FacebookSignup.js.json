@@ -1,0 +1,10 @@
+{
+  "Profile type is required": {
+    "origin": [
+      [
+        "src/containers/FacebookSignup.js",
+        32
+      ]
+    ]
+  }
+}

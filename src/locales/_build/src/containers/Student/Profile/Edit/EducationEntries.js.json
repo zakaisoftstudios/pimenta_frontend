@@ -1,0 +1,78 @@
+{
+  "Invalid date. Format as mm/dd/yyyy.": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/EducationEntries.js",
+        28
+      ],
+      [
+        "src/containers/Student/Profile/Edit/EducationEntries.js",
+        32
+      ]
+    ]
+  },
+  "From is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/EducationEntries.js",
+        29
+      ]
+    ]
+  },
+  "School name is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/EducationEntries.js",
+        33
+      ]
+    ]
+  },
+  "City is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/EducationEntries.js",
+        34
+      ]
+    ]
+  },
+  "Country is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/EducationEntries.js",
+        35
+      ]
+    ]
+  },
+  "Educational level is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/EducationEntries.js",
+        37
+      ]
+    ]
+  },
+  "Grade point average is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/EducationEntries.js",
+        40
+      ]
+    ]
+  },
+  "Max grade of 100": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/EducationEntries.js",
+        41
+      ]
+    ]
+  },
+  "Min grade of 0": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/EducationEntries.js",
+        42
+      ]
+    ]
+  }
+}

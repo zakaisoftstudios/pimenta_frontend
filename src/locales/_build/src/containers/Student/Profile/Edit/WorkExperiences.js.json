@@ -1,0 +1,62 @@
+{
+  "Invalid date. Format as mm/dd/yyyy.": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/WorkExperiences.js",
+        29
+      ],
+      [
+        "src/containers/Student/Profile/Edit/WorkExperiences.js",
+        33
+      ]
+    ]
+  },
+  "From is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/WorkExperiences.js",
+        30
+      ]
+    ]
+  },
+  "Job Role is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/WorkExperiences.js",
+        34
+      ]
+    ]
+  },
+  "Type is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/WorkExperiences.js",
+        35
+      ]
+    ]
+  },
+  "Institution is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/WorkExperiences.js",
+        36
+      ]
+    ]
+  },
+  "City is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/WorkExperiences.js",
+        37
+      ]
+    ]
+  },
+  "Country is required": {
+    "origin": [
+      [
+        "src/containers/Student/Profile/Edit/WorkExperiences.js",
+        38
+      ]
+    ]
+  }
+}

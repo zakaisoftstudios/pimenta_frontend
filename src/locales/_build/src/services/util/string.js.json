@@ -1,0 +1,18 @@
+{
+  "Yes": {
+    "origin": [
+      [
+        "src/services/util/string.js",
+        5
+      ]
+    ]
+  },
+  "No": {
+    "origin": [
+      [
+        "src/services/util/string.js",
+        5
+      ]
+    ]
+  }
+}

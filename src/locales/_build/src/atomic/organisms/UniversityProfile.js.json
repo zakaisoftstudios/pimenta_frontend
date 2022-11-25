@@ -1,0 +1,26 @@
+{
+  "Return": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfile.js",
+        73
+      ]
+    ]
+  },
+  "About": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfile.js",
+        79
+      ]
+    ]
+  },
+  "Edit": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfile.js",
+        80
+      ]
+    ]
+  }
+}

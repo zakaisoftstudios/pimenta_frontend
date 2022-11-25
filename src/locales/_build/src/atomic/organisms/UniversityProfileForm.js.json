@@ -1,0 +1,158 @@
+{
+  "Save and return": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        52
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        56
+      ],
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        228
+      ]
+    ]
+  },
+  "Name of the University": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        66
+      ]
+    ]
+  },
+  "Type of University": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        76
+      ]
+    ]
+  },
+  "Number of students": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        86
+      ]
+    ]
+  },
+  "We are": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        97
+      ]
+    ]
+  },
+  "Why should you study here": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        105
+      ]
+    ]
+  },
+  "Subject areas": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        113
+      ]
+    ]
+  },
+  "Special features & Partners of the university": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        121
+      ]
+    ]
+  },
+  "Be in touch": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        126
+      ]
+    ]
+  },
+  "Address": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        129
+      ]
+    ]
+  },
+  "Country": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        138
+      ]
+    ]
+  },
+  "City": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        147
+      ]
+    ]
+  },
+  "Zip code": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        155
+      ]
+    ]
+  },
+  "Address (street and number)": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        165
+      ]
+    ]
+  },
+  "Links": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        170
+      ]
+    ]
+  },
+  "Website": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        176
+      ]
+    ]
+  },
+  "Contact Email": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        185
+      ]
+    ]
+  },
+  "Save": {
+    "origin": [
+      [
+        "src/atomic/organisms/UniversityProfileForm.js",
+        231
+      ]
+    ]
+  }
+}
